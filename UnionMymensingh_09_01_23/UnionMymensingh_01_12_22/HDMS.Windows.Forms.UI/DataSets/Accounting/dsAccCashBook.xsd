@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAccCashBook" targetNamespace="http://tempuri.org/dsAccCashBook.xsd" xmlns:mstns="http://tempuri.org/dsAccCashBook.xsd" xmlns="http://tempuri.org/dsAccCashBook.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAccCashBook" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsAccCashBook" msprop:Generator_UserDSName="dsAccCashBook">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtAccCashBook" msprop:Generator_TableClassName="dtAccCashBookDataTable" msprop:Generator_TableVarName="tabledtAccCashBook" msprop:Generator_TablePropName="dtAccCashBook" msprop:Generator_RowDeletingName="dtAccCashBookRowDeleting" msprop:Generator_RowChangingName="dtAccCashBookRowChanging" msprop:Generator_RowEvHandlerName="dtAccCashBookRowChangeEventHandler" msprop:Generator_RowDeletedName="dtAccCashBookRowDeleted" msprop:Generator_UserTableName="dtAccCashBook" msprop:Generator_RowChangedName="dtAccCashBookRowChanged" msprop:Generator_RowEvArgName="dtAccCashBookRowChangeEvent" msprop:Generator_RowClassName="dtAccCashBookRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DR_Date" msprop:Generator_ColumnVarNameInTable="columnDR_Date" msprop:Generator_ColumnPropNameInRow="DR_Date" msprop:Generator_ColumnPropNameInTable="DR_DateColumn" msprop:Generator_UserColumnName="DR_Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DR_Receipts" msprop:Generator_ColumnVarNameInTable="columnDR_Receipts" msprop:Generator_ColumnPropNameInRow="DR_Receipts" msprop:Generator_ColumnPropNameInTable="DR_ReceiptsColumn" msprop:Generator_UserColumnName="DR_Receipts" type="xs:string" minOccurs="0" />
+              <xs:element name="DR_Amount" msprop:Generator_ColumnVarNameInTable="columnDR_Amount" msprop:Generator_ColumnPropNameInRow="DR_Amount" msprop:Generator_ColumnPropNameInTable="DR_AmountColumn" msprop:Generator_UserColumnName="DR_Amount" type="xs:double" minOccurs="0" />
+              <xs:element name="DR_Total" msprop:Generator_ColumnVarNameInTable="columnDR_Total" msprop:Generator_ColumnPropNameInRow="DR_Total" msprop:Generator_ColumnPropNameInTable="DR_TotalColumn" msprop:Generator_UserColumnName="DR_Total" type="xs:double" minOccurs="0" />
+              <xs:element name="CR_Date" msprop:Generator_ColumnVarNameInTable="columnCR_Date" msprop:Generator_ColumnPropNameInRow="CR_Date" msprop:Generator_ColumnPropNameInTable="CR_DateColumn" msprop:Generator_UserColumnName="CR_Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CR_Receipts" msprop:Generator_ColumnVarNameInTable="columnCR_Receipts" msprop:Generator_ColumnPropNameInRow="CR_Receipts" msprop:Generator_ColumnPropNameInTable="CR_ReceiptsColumn" msprop:Generator_UserColumnName="CR_Receipts" type="xs:string" minOccurs="0" />
+              <xs:element name="CR_Amount" msprop:Generator_ColumnVarNameInTable="columnCR_Amount" msprop:Generator_ColumnPropNameInRow="CR_Amount" msprop:Generator_ColumnPropNameInTable="CR_AmountColumn" msprop:Generator_UserColumnName="CR_Amount" type="xs:double" minOccurs="0" />
+              <xs:element name="CR_Total" msprop:Generator_ColumnVarNameInTable="columnCR_Total" msprop:Generator_ColumnPropNameInRow="CR_Total" msprop:Generator_ColumnPropNameInTable="CR_TotalColumn" msprop:Generator_UserColumnName="CR_Total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

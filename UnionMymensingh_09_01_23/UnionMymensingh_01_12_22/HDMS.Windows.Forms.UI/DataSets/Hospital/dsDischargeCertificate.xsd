@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDischargeCertificate" targetNamespace="http://tempuri.org/dsDischargeCertificate.xsd" xmlns:mstns="http://tempuri.org/dsDischargeCertificate.xsd" xmlns="http://tempuri.org/dsDischargeCertificate.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDischargeCertificate" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDischargeCertificate" msprop:Generator_UserDSName="dsDischargeCertificate">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtDischargeCertificate" msprop:Generator_TableClassName="dtDischargeCertificateDataTable" msprop:Generator_TableVarName="tabledtDischargeCertificate" msprop:Generator_RowChangedName="dtDischargeCertificateRowChanged" msprop:Generator_TablePropName="dtDischargeCertificate" msprop:Generator_RowDeletingName="dtDischargeCertificateRowDeleting" msprop:Generator_RowChangingName="dtDischargeCertificateRowChanging" msprop:Generator_RowEvHandlerName="dtDischargeCertificateRowChangeEventHandler" msprop:Generator_RowDeletedName="dtDischargeCertificateRowDeleted" msprop:Generator_RowClassName="dtDischargeCertificateRow" msprop:Generator_UserTableName="dtDischargeCertificate" msprop:Generator_RowEvArgName="dtDischargeCertificateRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DescriptionTitle" msprop:Generator_ColumnVarNameInTable="columnDescriptionTitle" msprop:Generator_ColumnPropNameInRow="DescriptionTitle" msprop:Generator_ColumnPropNameInTable="DescriptionTitleColumn" msprop:Generator_UserColumnName="DescriptionTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="DescriptionLabel" msprop:Generator_ColumnVarNameInTable="columnDescriptionLabel" msprop:Generator_ColumnPropNameInRow="DescriptionLabel" msprop:Generator_ColumnPropNameInTable="DescriptionLabelColumn" msprop:Generator_UserColumnName="DescriptionLabel" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="DisplayOrder" msprop:Generator_ColumnVarNameInTable="columnDisplayOrder" msprop:Generator_ColumnPropNameInRow="DisplayOrder" msprop:Generator_ColumnPropNameInTable="DisplayOrderColumn" msprop:Generator_UserColumnName="DisplayOrder" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

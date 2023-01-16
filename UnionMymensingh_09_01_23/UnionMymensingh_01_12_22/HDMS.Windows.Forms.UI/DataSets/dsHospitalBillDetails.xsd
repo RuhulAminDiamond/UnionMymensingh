@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsHospitalBillDetails" targetNamespace="http://tempuri.org/dsHospitalBillDetails.xsd" xmlns:mstns="http://tempuri.org/dsHospitalBillDetails.xsd" xmlns="http://tempuri.org/dsHospitalBillDetails.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsHospitalBillDetails" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsHospitalBillDetails" msprop:Generator_UserDSName="dsHospitalBillDetails">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHospitalBillDetails" msprop:Generator_TableClassName="dtHospitalBillDetailsDataTable" msprop:Generator_TableVarName="tabledtHospitalBillDetails" msprop:Generator_TablePropName="dtHospitalBillDetails" msprop:Generator_RowDeletingName="dtHospitalBillDetailsRowDeleting" msprop:Generator_RowChangingName="dtHospitalBillDetailsRowChanging" msprop:Generator_RowEvHandlerName="dtHospitalBillDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtHospitalBillDetailsRowDeleted" msprop:Generator_UserTableName="dtHospitalBillDetails" msprop:Generator_RowChangedName="dtHospitalBillDetailsRowChanged" msprop:Generator_RowEvArgName="dtHospitalBillDetailsRowChangeEvent" msprop:Generator_RowClassName="dtHospitalBillDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ReportOrder" msprop:Generator_ColumnVarNameInTable="columnReportOrder" msprop:Generator_ColumnPropNameInRow="ReportOrder" msprop:Generator_ColumnPropNameInTable="ReportOrderColumn" msprop:Generator_UserColumnName="ReportOrder" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="DeliveredUnit" msprop:Generator_ColumnVarNameInTable="columnDeliveredUnit" msprop:Generator_ColumnPropNameInRow="DeliveredUnit" msprop:Generator_ColumnPropNameInTable="DeliveredUnitColumn" msprop:Generator_UserColumnName="DeliveredUnit" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate" msprop:Generator_ColumnVarNameInTable="columnRate" msprop:Generator_ColumnPropNameInRow="Rate" msprop:Generator_ColumnPropNameInTable="RateColumn" msprop:Generator_UserColumnName="Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

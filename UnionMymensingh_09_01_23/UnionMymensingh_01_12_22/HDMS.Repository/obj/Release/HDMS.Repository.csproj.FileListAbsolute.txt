@@ -1,0 +1,99 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Repository.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\EntityFramework.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Model.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\HDMS.Model.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\EntityFramework.xml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Release\HDMS.Repository.csprojResolveAssemblyReference.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Release\HDMS.Repository.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Release\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\EntityFramework.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Model.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Model.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\HDMS.Model.dll.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\EntityFramework.xml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Release\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Release\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Release\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.xml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CopyComplete
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll.config
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.xml
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CopyComplete
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll.config
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.xml
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll.config
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\HDMS.Model.dll.config
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.xml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Release\EntityFramework.SqlServer.xml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.csproj.CopyComplete
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Release\HDMS.Repository.pdb

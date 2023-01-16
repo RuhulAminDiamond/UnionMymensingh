@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDepriciation" targetNamespace="http://tempuri.org/dsDepriciation.xsd" xmlns:mstns="http://tempuri.org/dsDepriciation.xsd" xmlns="http://tempuri.org/dsDepriciation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDepriciation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDepriciation" msprop:Generator_UserDSName="dsDepriciation">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtDepriciation" msprop:Generator_TableClassName="dtDepriciationDataTable" msprop:Generator_TableVarName="tabledtDepriciation" msprop:Generator_TablePropName="dtDepriciation" msprop:Generator_RowDeletingName="dtDepriciationRowDeleting" msprop:Generator_RowChangingName="dtDepriciationRowChanging" msprop:Generator_RowEvHandlerName="dtDepriciationRowChangeEventHandler" msprop:Generator_RowDeletedName="dtDepriciationRowDeleted" msprop:Generator_UserTableName="dtDepriciation" msprop:Generator_RowChangedName="dtDepriciationRowChanged" msprop:Generator_RowEvArgName="dtDepriciationRowChangeEvent" msprop:Generator_RowClassName="dtDepriciationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:string" minOccurs="0" />
+              <xs:element name="Depriciation" msprop:Generator_ColumnVarNameInTable="columnDepriciation" msprop:Generator_ColumnPropNameInRow="Depriciation" msprop:Generator_ColumnPropNameInTable="DepriciationColumn" msprop:Generator_UserColumnName="Depriciation" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

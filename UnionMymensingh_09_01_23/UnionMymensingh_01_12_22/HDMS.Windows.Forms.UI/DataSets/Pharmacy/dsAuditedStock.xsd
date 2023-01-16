@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAuditedStock" targetNamespace="http://tempuri.org/dsAuditedStock.xsd" xmlns:mstns="http://tempuri.org/dsAuditedStock.xsd" xmlns="http://tempuri.org/dsAuditedStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAuditedStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsAuditedStock" msprop:Generator_UserDSName="dsAuditedStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtAuditedStock" msprop:Generator_TableClassName="dtAuditedStockDataTable" msprop:Generator_TableVarName="tabledtAuditedStock" msprop:Generator_RowChangedName="dtAuditedStockRowChanged" msprop:Generator_TablePropName="dtAuditedStock" msprop:Generator_RowDeletingName="dtAuditedStockRowDeleting" msprop:Generator_RowChangingName="dtAuditedStockRowChanging" msprop:Generator_RowEvHandlerName="dtAuditedStockRowChangeEventHandler" msprop:Generator_RowDeletedName="dtAuditedStockRowDeleted" msprop:Generator_RowClassName="dtAuditedStockRow" msprop:Generator_UserTableName="dtAuditedStock" msprop:Generator_RowEvArgName="dtAuditedStockRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProductId" msprop:Generator_ColumnVarNameInTable="columnProductId" msprop:Generator_ColumnPropNameInRow="ProductId" msprop:Generator_ColumnPropNameInTable="ProductIdColumn" msprop:Generator_UserColumnName="ProductId" type="xs:int" minOccurs="0" />
+              <xs:element name="BrandName" msprop:Generator_ColumnVarNameInTable="columnBrandName" msprop:Generator_ColumnPropNameInRow="BrandName" msprop:Generator_ColumnPropNameInTable="BrandNameColumn" msprop:Generator_UserColumnName="BrandName" type="xs:string" minOccurs="0" />
+              <xs:element name="Manufacturer" msprop:Generator_ColumnVarNameInTable="columnManufacturer" msprop:Generator_ColumnPropNameInRow="Manufacturer" msprop:Generator_ColumnPropNameInTable="ManufacturerColumn" msprop:Generator_UserColumnName="Manufacturer" type="xs:string" minOccurs="0" />
+              <xs:element name="SoftWareStock" msprop:Generator_ColumnVarNameInTable="columnSoftWareStock" msprop:Generator_ColumnPropNameInRow="SoftWareStock" msprop:Generator_ColumnPropNameInTable="SoftWareStockColumn" msprop:Generator_UserColumnName="SoftWareStock" type="xs:double" minOccurs="0" />
+              <xs:element name="PhysicalStock" msprop:Generator_ColumnVarNameInTable="columnPhysicalStock" msprop:Generator_ColumnPropNameInRow="PhysicalStock" msprop:Generator_ColumnPropNameInTable="PhysicalStockColumn" msprop:Generator_UserColumnName="PhysicalStock" type="xs:double" minOccurs="0" />
+              <xs:element name="SoftValue" msprop:Generator_ColumnVarNameInTable="columnSoftValue" msprop:Generator_ColumnPropNameInRow="SoftValue" msprop:Generator_ColumnPropNameInTable="SoftValueColumn" msprop:Generator_UserColumnName="SoftValue" type="xs:double" minOccurs="0" />
+              <xs:element name="PhysicalVal" msprop:Generator_ColumnVarNameInTable="columnPhysicalVal" msprop:Generator_ColumnPropNameInRow="PhysicalVal" msprop:Generator_ColumnPropNameInTable="PhysicalValColumn" msprop:Generator_UserColumnName="PhysicalVal" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

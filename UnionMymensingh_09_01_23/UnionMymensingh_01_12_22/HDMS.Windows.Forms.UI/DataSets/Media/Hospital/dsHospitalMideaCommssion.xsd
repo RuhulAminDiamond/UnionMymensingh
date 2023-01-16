@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsHospitalMideaCommssion" targetNamespace="http://tempuri.org/dsHospitalMideaCommssion.xsd" xmlns:mstns="http://tempuri.org/dsHospitalMideaCommssion.xsd" xmlns="http://tempuri.org/dsHospitalMideaCommssion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsHospitalMideaCommssion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsHospitalMideaCommssion" msprop:Generator_UserDSName="dsHospitalMideaCommssion">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHospitalMideaCommssion.xsd" msprop:Generator_TableClassName="_dtHospitalMideaCommssion_xsdDataTable" msprop:Generator_TableVarName="_tabledtHospitalMideaCommssion_xsd" msprop:Generator_RowChangedName="_dtHospitalMideaCommssion_xsdRowChanged" msprop:Generator_TablePropName="_dtHospitalMideaCommssion_xsd" msprop:Generator_RowDeletingName="_dtHospitalMideaCommssion_xsdRowDeleting" msprop:Generator_RowChangingName="_dtHospitalMideaCommssion_xsdRowChanging" msprop:Generator_RowEvHandlerName="_dtHospitalMideaCommssion_xsdRowChangeEventHandler" msprop:Generator_RowDeletedName="_dtHospitalMideaCommssion_xsdRowDeleted" msprop:Generator_RowClassName="_dtHospitalMideaCommssion_xsdRow" msprop:Generator_UserTableName="dtHospitalMideaCommssion.xsd" msprop:Generator_RowEvArgName="_dtHospitalMideaCommssion_xsdRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="MediaName" msprop:Generator_ColumnVarNameInTable="columnMediaName" msprop:Generator_ColumnPropNameInRow="MediaName" msprop:Generator_ColumnPropNameInTable="MediaNameColumn" msprop:Generator_UserColumnName="MediaName" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="MediaCommission" msprop:Generator_ColumnVarNameInTable="columnMediaCommission" msprop:Generator_ColumnPropNameInRow="MediaCommission" msprop:Generator_ColumnPropNameInTable="MediaCommissionColumn" msprop:Generator_UserColumnName="MediaCommission" type="xs:double" minOccurs="0" />
+              <xs:element name="DischargeDate" msprop:Generator_ColumnVarNameInTable="columnDischargeDate" msprop:Generator_ColumnPropNameInRow="DischargeDate" msprop:Generator_ColumnPropNameInTable="DischargeDateColumn" msprop:Generator_UserColumnName="DischargeDate" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionId" msprop:Generator_ColumnVarNameInTable="columnAdmissionId" msprop:Generator_ColumnPropNameInRow="AdmissionId" msprop:Generator_ColumnPropNameInTable="AdmissionIdColumn" msprop:Generator_UserColumnName="AdmissionId" type="xs:long" minOccurs="0" />
+              <xs:element name="MediaId" msprop:Generator_ColumnVarNameInTable="columnMediaId" msprop:Generator_ColumnPropNameInRow="MediaId" msprop:Generator_ColumnPropNameInTable="MediaIdColumn" msprop:Generator_UserColumnName="MediaId" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

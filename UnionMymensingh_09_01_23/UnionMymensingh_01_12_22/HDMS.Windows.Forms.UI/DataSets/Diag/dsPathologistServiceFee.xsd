@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPathologistServiceFee" targetNamespace="http://tempuri.org/dsPathologistServiceFee.xsd" xmlns:mstns="http://tempuri.org/dsPathologistServiceFee.xsd" xmlns="http://tempuri.org/dsPathologistServiceFee.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPathologistServiceFee" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPathologistServiceFee" msprop:Generator_UserDSName="dsPathologistServiceFee">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPathologistServiceFee" msprop:Generator_TableClassName="dtPathologistServiceFeeDataTable" msprop:Generator_TableVarName="tabledtPathologistServiceFee" msprop:Generator_TablePropName="dtPathologistServiceFee" msprop:Generator_RowDeletingName="dtPathologistServiceFeeRowDeleting" msprop:Generator_RowChangingName="dtPathologistServiceFeeRowChanging" msprop:Generator_RowEvHandlerName="dtPathologistServiceFeeRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPathologistServiceFeeRowDeleted" msprop:Generator_UserTableName="dtPathologistServiceFee" msprop:Generator_RowChangedName="dtPathologistServiceFeeRowChanged" msprop:Generator_RowEvArgName="dtPathologistServiceFeeRowChangeEvent" msprop:Generator_RowClassName="dtPathologistServiceFeeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:long" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="Fee" msprop:Generator_ColumnVarNameInTable="columnFee" msprop:Generator_ColumnPropNameInRow="Fee" msprop:Generator_ColumnPropNameInTable="FeeColumn" msprop:Generator_UserColumnName="Fee" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalFee" msprop:Generator_ColumnVarNameInTable="columnTotalFee" msprop:Generator_ColumnPropNameInRow="TotalFee" msprop:Generator_ColumnPropNameInTable="TotalFeeColumn" msprop:Generator_UserColumnName="TotalFee" type="xs:double" minOccurs="0" />
+              <xs:element name="Cost" msprop:Generator_ColumnVarNameInTable="columnCost" msprop:Generator_ColumnPropNameInRow="Cost" msprop:Generator_ColumnPropNameInTable="CostColumn" msprop:Generator_UserColumnName="Cost" type="xs:double" minOccurs="0" />
+              <xs:element name="Consultant" msprop:Generator_ColumnVarNameInTable="columnConsultant" msprop:Generator_ColumnPropNameInRow="Consultant" msprop:Generator_ColumnPropNameInTable="ConsultantColumn" msprop:Generator_UserColumnName="Consultant" type="xs:string" minOccurs="0" />
+              <xs:element name="RCId" msprop:Generator_ColumnVarNameInTable="columnRCId" msprop:Generator_ColumnPropNameInRow="RCId" msprop:Generator_ColumnPropNameInTable="RCIdColumn" msprop:Generator_UserColumnName="RCId" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

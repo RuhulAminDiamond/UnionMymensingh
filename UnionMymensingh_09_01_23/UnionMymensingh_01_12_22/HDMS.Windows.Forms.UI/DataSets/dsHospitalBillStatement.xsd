@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsHospitalBillStatement" targetNamespace="http://tempuri.org/dsHospitalBillStatement.xsd" xmlns:mstns="http://tempuri.org/dsHospitalBillStatement.xsd" xmlns="http://tempuri.org/dsHospitalBillStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsHospitalBillStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsHospitalBillStatement" msprop:Generator_UserDSName="dsHospitalBillStatement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHospitalStatement" msprop:Generator_TableClassName="dtHospitalStatementDataTable" msprop:Generator_TableVarName="tabledtHospitalStatement" msprop:Generator_TablePropName="dtHospitalStatement" msprop:Generator_RowDeletingName="dtHospitalStatementRowDeleting" msprop:Generator_RowChangingName="dtHospitalStatementRowChanging" msprop:Generator_RowEvHandlerName="dtHospitalStatementRowChangeEventHandler" msprop:Generator_RowDeletedName="dtHospitalStatementRowDeleted" msprop:Generator_UserTableName="dtHospitalStatement" msprop:Generator_RowChangedName="dtHospitalStatementRowChanged" msprop:Generator_RowEvArgName="dtHospitalStatementRowChangeEvent" msprop:Generator_RowClassName="dtHospitalStatementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Invdate" msprop:Generator_ColumnVarNameInTable="columnInvdate" msprop:Generator_ColumnPropNameInRow="Invdate" msprop:Generator_ColumnPropNameInTable="InvdateColumn" msprop:Generator_UserColumnName="Invdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RegNo" msprop:Generator_ColumnVarNameInTable="columnRegNo" msprop:Generator_ColumnPropNameInRow="RegNo" msprop:Generator_ColumnPropNameInTable="RegNoColumn" msprop:Generator_UserColumnName="RegNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="HospitalBill" msprop:Generator_ColumnVarNameInTable="columnHospitalBill" msprop:Generator_ColumnPropNameInRow="HospitalBill" msprop:Generator_ColumnPropNameInTable="HospitalBillColumn" msprop:Generator_UserColumnName="HospitalBill" type="xs:double" minOccurs="0" />
+              <xs:element name="HospitalPaymentByCash" msprop:Generator_ColumnVarNameInTable="columnHospitalPaymentByCash" msprop:Generator_ColumnPropNameInRow="HospitalPaymentByCash" msprop:Generator_ColumnPropNameInTable="HospitalPaymentByCashColumn" msprop:Generator_UserColumnName="HospitalPaymentByCash" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscountOnHospital" msprop:Generator_ColumnVarNameInTable="columnDiscountOnHospital" msprop:Generator_ColumnPropNameInRow="DiscountOnHospital" msprop:Generator_ColumnPropNameInTable="DiscountOnHospitalColumn" msprop:Generator_UserColumnName="DiscountOnHospital" type="xs:double" minOccurs="0" />
+              <xs:element name="HospitalBillPaymentByPF" msprop:Generator_ColumnVarNameInTable="columnHospitalBillPaymentByPF" msprop:Generator_ColumnPropNameInRow="HospitalBillPaymentByPF" msprop:Generator_ColumnPropNameInTable="HospitalBillPaymentByPFColumn" msprop:Generator_UserColumnName="HospitalBillPaymentByPF" type="xs:double" minOccurs="0" />
+              <xs:element name="HospitalPaymentByHCV" msprop:Generator_ColumnVarNameInTable="columnHospitalPaymentByHCV" msprop:Generator_ColumnPropNameInRow="HospitalPaymentByHCV" msprop:Generator_ColumnPropNameInTable="HospitalPaymentByHCVColumn" msprop:Generator_UserColumnName="HospitalPaymentByHCV" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAmbulanceRentInfo" targetNamespace="http://tempuri.org/dsAmbulanceRentInfo.xsd" xmlns:mstns="http://tempuri.org/dsAmbulanceRentInfo.xsd" xmlns="http://tempuri.org/dsAmbulanceRentInfo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAmbulanceRentInfo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsAmbulanceRentInfo" msprop:Generator_UserDSName="dsAmbulanceRentInfo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtAmbulanceRentInfo" msprop:Generator_TableClassName="dtAmbulanceRentInfoDataTable" msprop:Generator_TableVarName="tabledtAmbulanceRentInfo" msprop:Generator_TablePropName="dtAmbulanceRentInfo" msprop:Generator_RowDeletingName="dtAmbulanceRentInfoRowDeleting" msprop:Generator_RowChangingName="dtAmbulanceRentInfoRowChanging" msprop:Generator_RowEvHandlerName="dtAmbulanceRentInfoRowChangeEventHandler" msprop:Generator_RowDeletedName="dtAmbulanceRentInfoRowDeleted" msprop:Generator_UserTableName="dtAmbulanceRentInfo" msprop:Generator_RowChangedName="dtAmbulanceRentInfoRowChanged" msprop:Generator_RowEvArgName="dtAmbulanceRentInfoRowChangeEvent" msprop:Generator_RowClassName="dtAmbulanceRentInfoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RentDate" msprop:Generator_ColumnVarNameInTable="columnRentDate" msprop:Generator_ColumnPropNameInRow="RentDate" msprop:Generator_ColumnPropNameInTable="RentDateColumn" msprop:Generator_UserColumnName="RentDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RegNo" msprop:Generator_ColumnVarNameInTable="columnRegNo" msprop:Generator_ColumnPropNameInRow="RegNo" msprop:Generator_ColumnPropNameInTable="RegNoColumn" msprop:Generator_UserColumnName="RegNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:string" minOccurs="0" />
+              <xs:element name="RenterName" msprop:Generator_ColumnVarNameInTable="columnRenterName" msprop:Generator_ColumnPropNameInRow="RenterName" msprop:Generator_ColumnPropNameInTable="RenterNameColumn" msprop:Generator_UserColumnName="RenterName" type="xs:string" minOccurs="0" />
+              <xs:element name="MobileNo" msprop:Generator_ColumnVarNameInTable="columnMobileNo" msprop:Generator_ColumnPropNameInRow="MobileNo" msprop:Generator_ColumnPropNameInTable="MobileNoColumn" msprop:Generator_UserColumnName="MobileNo" type="xs:string" minOccurs="0" />
+              <xs:element name="TripFrom" msprop:Generator_ColumnVarNameInTable="columnTripFrom" msprop:Generator_ColumnPropNameInRow="TripFrom" msprop:Generator_ColumnPropNameInTable="TripFromColumn" msprop:Generator_UserColumnName="TripFrom" type="xs:string" minOccurs="0" />
+              <xs:element name="TripTo" msprop:Generator_ColumnVarNameInTable="columnTripTo" msprop:Generator_ColumnPropNameInRow="TripTo" msprop:Generator_ColumnPropNameInTable="TripToColumn" msprop:Generator_UserColumnName="TripTo" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalRent" msprop:Generator_ColumnVarNameInTable="columnTotalRent" msprop:Generator_ColumnPropNameInRow="TotalRent" msprop:Generator_ColumnPropNameInTable="TotalRentColumn" msprop:Generator_UserColumnName="TotalRent" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

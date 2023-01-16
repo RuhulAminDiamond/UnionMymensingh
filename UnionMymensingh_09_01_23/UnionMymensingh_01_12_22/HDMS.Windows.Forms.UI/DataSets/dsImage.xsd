@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsImage" targetNamespace="http://tempuri.org/dsImage.xsd" xmlns:mstns="http://tempuri.org/dsImage.xsd" xmlns="http://tempuri.org/dsImage.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsImage" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsImage" msprop:Generator_UserDSName="dsImage">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtImage" msprop:Generator_TableClassName="dtImageDataTable" msprop:Generator_TableVarName="tabledtImage" msprop:Generator_TablePropName="dtImage" msprop:Generator_RowDeletingName="dtImageRowDeleting" msprop:Generator_RowChangingName="dtImageRowChanging" msprop:Generator_RowEvHandlerName="dtImageRowChangeEventHandler" msprop:Generator_RowDeletedName="dtImageRowDeleted" msprop:Generator_UserTableName="dtImage" msprop:Generator_RowChangedName="dtImageRowChanged" msprop:Generator_RowEvArgName="dtImageRowChangeEvent" msprop:Generator_RowClassName="dtImageRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProfileImage" msprop:Generator_ColumnVarNameInTable="columnProfileImage" msprop:Generator_ColumnPropNameInRow="ProfileImage" msprop:Generator_ColumnPropNameInTable="ProfileImageColumn" msprop:Generator_UserColumnName="ProfileImage" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="pRegNo" msprop:Generator_ColumnVarNameInTable="columnpRegNo" msprop:Generator_ColumnPropNameInRow="pRegNo" msprop:Generator_ColumnPropNameInTable="pRegNoColumn" msprop:Generator_UserColumnName="pRegNo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

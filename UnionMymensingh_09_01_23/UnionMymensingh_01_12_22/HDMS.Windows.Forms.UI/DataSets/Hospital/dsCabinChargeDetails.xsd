@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCabinChargeDetails" targetNamespace="http://tempuri.org/dsCabinChargeDetails.xsd" xmlns:mstns="http://tempuri.org/dsCabinChargeDetails.xsd" xmlns="http://tempuri.org/dsCabinChargeDetails.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCabinChargeDetails" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCabinChargeDetails" msprop:Generator_UserDSName="dsCabinChargeDetails">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCabinChrageDetails" msprop:Generator_TableClassName="dtCabinChrageDetailsDataTable" msprop:Generator_TableVarName="tabledtCabinChrageDetails" msprop:Generator_TablePropName="dtCabinChrageDetails" msprop:Generator_RowDeletingName="dtCabinChrageDetailsRowDeleting" msprop:Generator_RowChangingName="dtCabinChrageDetailsRowChanging" msprop:Generator_RowEvHandlerName="dtCabinChrageDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCabinChrageDetailsRowDeleted" msprop:Generator_UserTableName="dtCabinChrageDetails" msprop:Generator_RowChangedName="dtCabinChrageDetailsRowChanged" msprop:Generator_RowEvArgName="dtCabinChrageDetailsRowChangeEvent" msprop:Generator_RowClassName="dtCabinChrageDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AdmissionDate" msprop:Generator_ColumnVarNameInTable="columnAdmissionDate" msprop:Generator_ColumnPropNameInRow="AdmissionDate" msprop:Generator_ColumnPropNameInTable="AdmissionDateColumn" msprop:Generator_UserColumnName="AdmissionDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AdmissionTime" msprop:Generator_ColumnVarNameInTable="columnAdmissionTime" msprop:Generator_ColumnPropNameInRow="AdmissionTime" msprop:Generator_ColumnPropNameInTable="AdmissionTimeColumn" msprop:Generator_UserColumnName="AdmissionTime" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionDayBill" msprop:Generator_ColumnVarNameInTable="columnAdmissionDayBill" msprop:Generator_ColumnPropNameInRow="AdmissionDayBill" msprop:Generator_ColumnPropNameInTable="AdmissionDayBillColumn" msprop:Generator_UserColumnName="AdmissionDayBill" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissinAndReleaseDay" msprop:Generator_ColumnVarNameInTable="columnAdmissinAndReleaseDay" msprop:Generator_ColumnPropNameInRow="AdmissinAndReleaseDay" msprop:Generator_ColumnPropNameInTable="AdmissinAndReleaseDayColumn" msprop:Generator_UserColumnName="AdmissinAndReleaseDay" type="xs:string" minOccurs="0" />
+              <xs:element name="IsOccupationmoreThanTwoCaledarDate" msprop:Generator_ColumnVarNameInTable="columnIsOccupationmoreThanTwoCaledarDate" msprop:Generator_ColumnPropNameInRow="IsOccupationmoreThanTwoCaledarDate" msprop:Generator_ColumnPropNameInTable="IsOccupationmoreThanTwoCaledarDateColumn" msprop:Generator_UserColumnName="IsOccupationmoreThanTwoCaledarDate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtCabinRolling" msprop:Generator_TableClassName="dtCabinRollingDataTable" msprop:Generator_TableVarName="tabledtCabinRolling" msprop:Generator_TablePropName="dtCabinRolling" msprop:Generator_RowDeletingName="dtCabinRollingRowDeleting" msprop:Generator_RowChangingName="dtCabinRollingRowChanging" msprop:Generator_RowEvHandlerName="dtCabinRollingRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCabinRollingRowDeleted" msprop:Generator_UserTableName="dtCabinRolling" msprop:Generator_RowChangedName="dtCabinRollingRowChanged" msprop:Generator_RowEvArgName="dtCabinRollingRowChangeEvent" msprop:Generator_RowClassName="dtCabinRollingRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BookOrder" msprop:Generator_ColumnVarNameInTable="columnBookOrder" msprop:Generator_ColumnPropNameInRow="BookOrder" msprop:Generator_ColumnPropNameInTable="BookOrderColumn" msprop:Generator_UserColumnName="BookOrder" type="xs:int" minOccurs="0" />
+              <xs:element name="RollDate" msprop:Generator_ColumnVarNameInTable="columnRollDate" msprop:Generator_ColumnPropNameInRow="RollDate" msprop:Generator_ColumnPropNameInTable="RollDateColumn" msprop:Generator_UserColumnName="RollDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Rent" msprop:Generator_ColumnVarNameInTable="columnRent" msprop:Generator_ColumnPropNameInRow="Rent" msprop:Generator_ColumnPropNameInTable="RentColumn" msprop:Generator_UserColumnName="Rent" type="xs:double" minOccurs="0" />
+              <xs:element name="CabinNo" msprop:Generator_ColumnVarNameInTable="columnCabinNo" msprop:Generator_ColumnPropNameInRow="CabinNo" msprop:Generator_ColumnPropNameInTable="CabinNoColumn" msprop:Generator_UserColumnName="CabinNo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1017 @@
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a ball.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a body part.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a bone.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a golf ball.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a hole.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a horse.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a liquid.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a metal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a musical instrument.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a person.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a place.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a shoe.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a string instrument.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a substance.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\a target.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\accounting.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\alcohol.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\american football.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\an animal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\an image.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\an organ.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\ancient greece.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\and coins in particular.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\animals.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\architecture.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\art.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as a bomb.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as a judge.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as a piece of machinery.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as in a meeting.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as on a ship.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as property.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\as water.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\astrology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\baseball.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\basketball.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\bible.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\biology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\board games.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in america.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in austria.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in canada.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in england.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in france.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in germany.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in hungary.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in ireland.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in new zealand.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in poland.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in russia.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in scotland.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\born in the united states.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\botany.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\boxing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\bridge.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\british.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\business.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\card games.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\cattle.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\chemistry.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\chess.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\christian theology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\christianity.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\civil law.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\clothes.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\color.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\computer science.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\computing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\cricket.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\criminal law.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\data.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\dna or rna.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\documents.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\eggs.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\electronic data.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\electronics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially a bacterium.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially a molar tooth.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially a piano duet.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially alcohol.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially blood.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially by nuclear weapons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially cattle.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially dinner.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially in a private home.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially in religion.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially language.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially money.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially of promises or contracts.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially of the bible.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially of wood.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\especially water.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\fencing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\film.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\food.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\football.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\game.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\games.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\genetics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\golf.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\great britain.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\greek mythology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\heraldry.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\hinduism and buddhism.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\hinduism.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\horseshoes.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\ice hockey.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\images or sounds.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\in india.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\independent of sex differences.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\information.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\islam.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\jewish folklore.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\judaism.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\law.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\light or sound.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\literary.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\mathematics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\meat.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\mechanics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\medicine.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\metals.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\microbiology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\military personnel.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\military.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\money.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\music.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\nautical.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\neuroscience.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\new testament.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\norse mythology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a baseball.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a bed.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a liquid.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a musical instrument.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a nuclear reaction.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a person.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a sailing vessel.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a ship or plane.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a specimen for study under a microscope.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of a substance.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of an organ or body part.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of animals.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of birds.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of champagne.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of clothing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of coffee.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of color.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of drugs.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of flora or fauna.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of fluids.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of hair or clothing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of language.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of light.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of limbs and feet.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of meat.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of motor vehicles.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of pages of a book.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of persons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of plant or animal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of plants and shrubs.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of plants.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of real estate.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of securities.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of sleep.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of soil.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of sound.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of sounds.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of speech sounds.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of speech.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of the moon.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of time.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of weapons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of weather or climate.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of weather.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of winds.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of wine.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\of wood.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\old testament.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\or animal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\or any sound resembling this.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\or other liquid.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\or sexual relations with.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\people.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\person or animal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\photography.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\physics and chemistry.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\physics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\plants and animals.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\printing.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\property.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\radiology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\religion.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\roman catholic church.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\roman mythology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\rugby.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\sound.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\spoken or written.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\sport.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\sports.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\statistics.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\substances.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\surgery.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\technology.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\tennis.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\the lips.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\united kingdom.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used especially of machinery.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used especially of persons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of color.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of grass or vegetation.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of metals.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of persons or behaviors.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of persons or the military.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of persons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of soil.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of the military.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\used of timepieces.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually a bell.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually alcoholic.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually cylindrical.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually in water.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually made of wood.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually metal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually red.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually white.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\usually written.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\water.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\weapons.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\wood or metal.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def\wood.png
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\dic.dic
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\def.def
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\syn.syn
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00SpellCheck.exe.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00SpellCheck.exe.manifest
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00SpellCheck.application
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00SpellCheck.exe
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00BindingList.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00BindingList.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\bin\Release\i00BindingList.dll.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.vbprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.ResolveComReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.AboutScreen.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.frmCrosswordGenerator.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.Resources.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.SpellCheckDialog.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.frmDictionaryEditor.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.GenerateResource.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.exe.manifest
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.application
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline_March_18_2020\i00SpellCheck\obj\Release\i00SpellCheck.exe
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a ball.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a body part.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a bone.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a golf ball.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a hole.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a horse.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a liquid.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a metal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a musical instrument.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a person.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a place.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a shoe.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a string instrument.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a substance.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a target.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\accounting.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\alcohol.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\american football.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an animal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an image.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an organ.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\ancient greece.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\and coins in particular.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\animals.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\architecture.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\art.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a bomb.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a judge.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a piece of machinery.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as in a meeting.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as on a ship.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as property.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as water.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\astrology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\baseball.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\basketball.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\bible.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\biology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\board games.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in america.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in austria.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in canada.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in england.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in france.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in germany.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in hungary.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in ireland.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in new zealand.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in poland.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in russia.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in scotland.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in the united states.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\botany.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\boxing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\bridge.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\british.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\business.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\card games.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\cattle.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\chemistry.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\chess.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\christian theology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\christianity.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\civil law.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\clothes.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\color.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\computer science.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\computing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\cricket.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\criminal law.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\data.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\dna or rna.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\documents.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\eggs.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\electronic data.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\electronics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a bacterium.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a molar tooth.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a piano duet.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially alcohol.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially blood.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially by nuclear weapons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially cattle.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially dinner.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in a private home.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in religion.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially language.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially money.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of promises or contracts.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of the bible.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of wood.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially water.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\fencing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\film.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\food.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\football.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\game.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\games.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\genetics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\golf.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\great britain.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\greek mythology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\heraldry.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism and buddhism.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\horseshoes.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\ice hockey.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\images or sounds.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\in india.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\independent of sex differences.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\information.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\islam.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\jewish folklore.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\judaism.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\law.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\light or sound.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\literary.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\mathematics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\meat.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\mechanics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\medicine.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\metals.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\microbiology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\military personnel.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\military.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\money.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\music.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\nautical.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\neuroscience.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\new testament.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\norse mythology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a baseball.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a bed.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a liquid.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a musical instrument.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a nuclear reaction.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a person.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a sailing vessel.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a ship or plane.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a specimen for study under a microscope.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a substance.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of an organ or body part.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of animals.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of birds.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of champagne.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of clothing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of coffee.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of color.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of drugs.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of flora or fauna.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of fluids.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of hair or clothing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of language.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of light.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of limbs and feet.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of meat.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of motor vehicles.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of pages of a book.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of persons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plant or animal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants and shrubs.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of real estate.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of securities.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sleep.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of soil.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sound.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sounds.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech sounds.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of the moon.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of time.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weapons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather or climate.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of winds.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of wine.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of wood.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\old testament.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or animal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or any sound resembling this.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or other liquid.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or sexual relations with.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\people.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\person or animal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\photography.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\physics and chemistry.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\physics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\plants and animals.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\printing.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\property.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\radiology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\religion.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\roman catholic church.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\roman mythology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\rugby.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sound.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\spoken or written.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sport.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sports.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\statistics.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\substances.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\surgery.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\technology.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\tennis.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\the lips.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\united kingdom.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of machinery.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of persons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of color.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of grass or vegetation.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of metals.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or behaviors.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or the military.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of soil.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of the military.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of timepieces.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually a bell.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually alcoholic.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually cylindrical.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually in water.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually made of wood.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually metal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually red.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually white.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually written.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\water.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\weapons.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\wood or metal.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\wood.png
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\dic.dic
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def.def
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\syn.syn
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.manifest
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.application
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.ResolveComReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.AboutScreen.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmCrosswordGenerator.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.Resources.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.SpellCheckDialog.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmDictionaryEditor.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.GenerateResource.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe.manifest
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.application
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CopyComplete
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a ball.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a body part.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a bone.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a golf ball.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a hole.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a horse.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a liquid.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a metal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a musical instrument.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a person.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a place.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a shoe.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a string instrument.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a substance.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\a target.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\accounting.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\alcohol.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\american football.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an animal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an image.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\an organ.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\ancient greece.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\and coins in particular.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\animals.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\architecture.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\art.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a bomb.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a judge.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as a piece of machinery.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as in a meeting.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as on a ship.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as property.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\as water.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\astrology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\baseball.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\basketball.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\bible.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\biology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\board games.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in america.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in austria.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in canada.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in england.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in france.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in germany.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in hungary.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in ireland.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in new zealand.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in poland.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in russia.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in scotland.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\born in the united states.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\botany.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\boxing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\bridge.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\british.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\business.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\card games.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\cattle.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\chemistry.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\chess.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\christian theology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\christianity.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\civil law.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\clothes.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\color.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\computer science.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\computing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\cricket.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\criminal law.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\data.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\dna or rna.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\documents.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\eggs.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\electronic data.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\electronics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a bacterium.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a molar tooth.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a piano duet.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially alcohol.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially blood.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially by nuclear weapons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially cattle.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially dinner.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in a private home.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in religion.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially language.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially money.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of promises or contracts.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of the bible.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of wood.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\especially water.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\fencing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\film.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\food.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\football.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\game.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\games.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\genetics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\golf.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\great britain.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\greek mythology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\heraldry.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism and buddhism.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\horseshoes.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\ice hockey.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\images or sounds.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\in india.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\independent of sex differences.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\information.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\islam.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\jewish folklore.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\judaism.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\law.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\light or sound.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\literary.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\mathematics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\meat.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\mechanics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\medicine.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\metals.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\microbiology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\military personnel.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\military.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\money.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\music.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\nautical.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\neuroscience.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\new testament.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\norse mythology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a baseball.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a bed.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a liquid.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a musical instrument.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a nuclear reaction.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a person.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a sailing vessel.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a ship or plane.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a specimen for study under a microscope.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of a substance.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of an organ or body part.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of animals.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of birds.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of champagne.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of clothing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of coffee.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of color.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of drugs.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of flora or fauna.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of fluids.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of hair or clothing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of language.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of light.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of limbs and feet.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of meat.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of motor vehicles.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of pages of a book.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of persons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plant or animal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants and shrubs.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of real estate.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of securities.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sleep.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of soil.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sound.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of sounds.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech sounds.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of the moon.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of time.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weapons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather or climate.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of winds.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of wine.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\of wood.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\old testament.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or animal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or any sound resembling this.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or other liquid.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\or sexual relations with.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\people.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\person or animal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\photography.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\physics and chemistry.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\physics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\plants and animals.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\printing.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\property.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\radiology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\religion.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\roman catholic church.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\roman mythology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\rugby.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sound.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\spoken or written.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sport.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\sports.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\statistics.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\substances.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\surgery.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\technology.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\tennis.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\the lips.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\united kingdom.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of machinery.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of persons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of color.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of grass or vegetation.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of metals.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or behaviors.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or the military.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of soil.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of the military.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\used of timepieces.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually a bell.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually alcoholic.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually cylindrical.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually in water.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually made of wood.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually metal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually red.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually white.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\usually written.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\water.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\weapons.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\wood or metal.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def\wood.png
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\dic.dic
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\def.def
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\syn.syn
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.config
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.manifest
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.application
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll.config
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbprojAssemblyReference.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.ResolveComReference.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.AboutScreen.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmCrosswordGenerator.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.Resources.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.SpellCheckDialog.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmDictionaryEditor.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.GenerateResource.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CoreCompileInputs.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe.manifest
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.application
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CopyComplete
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a ball.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a body part.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a bone.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a golf ball.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a hole.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a horse.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a liquid.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a metal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a musical instrument.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a person.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a place.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a shoe.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a string instrument.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a substance.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\a target.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\accounting.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\alcohol.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\american football.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\an animal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\an image.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\an organ.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\ancient greece.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\and coins in particular.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\animals.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\architecture.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\art.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as a bomb.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as a judge.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as a piece of machinery.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as in a meeting.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as on a ship.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as property.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\as water.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\astrology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\baseball.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\basketball.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\bible.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\biology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\board games.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in america.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in austria.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in canada.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in england.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in france.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in germany.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in hungary.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in ireland.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in new zealand.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in poland.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in russia.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in scotland.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\born in the united states.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\botany.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\boxing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\bridge.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\british.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\business.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\card games.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\cattle.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\chemistry.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\chess.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\christian theology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\christianity.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\civil law.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\clothes.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\color.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\computer science.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\computing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\cricket.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\criminal law.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\data.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\dna or rna.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\documents.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\eggs.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\electronic data.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\electronics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a bacterium.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a molar tooth.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially a piano duet.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially alcohol.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially blood.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially by nuclear weapons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially cattle.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially dinner.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in a private home.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially in religion.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially language.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially money.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of promises or contracts.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of the bible.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially of wood.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\especially water.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\fencing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\film.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\food.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\football.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\game.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\games.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\genetics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\golf.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\great britain.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\greek mythology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\heraldry.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism and buddhism.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\hinduism.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\horseshoes.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\ice hockey.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\images or sounds.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\in india.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\independent of sex differences.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\information.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\islam.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\jewish folklore.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\judaism.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\law.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\light or sound.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\literary.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\mathematics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\meat.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\mechanics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\medicine.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\metals.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\microbiology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\military personnel.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\military.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\money.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\music.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\nautical.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\neuroscience.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\new testament.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\norse mythology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a baseball.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a bed.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a liquid.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a musical instrument.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a nuclear reaction.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a person.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a sailing vessel.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a ship or plane.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a specimen for study under a microscope.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of a substance.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of an organ or body part.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of animals.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of birds.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of champagne.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of clothing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of coffee.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of color.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of drugs.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of flora or fauna.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of fluids.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of hair or clothing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of language.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of light.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of limbs and feet.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of meat.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of motor vehicles.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of pages of a book.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of persons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of plant or animal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants and shrubs.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of plants.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of real estate.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of securities.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of sleep.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of soil.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of sound.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of sounds.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech sounds.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of speech.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of the moon.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of time.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of weapons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather or climate.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of weather.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of winds.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of wine.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\of wood.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\old testament.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\or animal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\or any sound resembling this.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\or other liquid.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\or sexual relations with.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\people.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\person or animal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\photography.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\physics and chemistry.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\physics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\plants and animals.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\printing.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\property.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\radiology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\religion.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\roman catholic church.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\roman mythology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\rugby.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\sound.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\spoken or written.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\sport.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\sports.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\statistics.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\substances.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\surgery.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\technology.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\tennis.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\the lips.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\united kingdom.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of machinery.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used especially of persons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of color.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of grass or vegetation.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of metals.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or behaviors.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons or the military.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of persons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of soil.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of the military.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\used of timepieces.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually a bell.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually alcoholic.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually cylindrical.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually in water.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually made of wood.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually metal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually red.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually white.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\usually written.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\water.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\weapons.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\wood or metal.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def\wood.png
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\dic.dic
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\def.def
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\syn.syn
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.config
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe.manifest
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.application
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00SpellCheck.exe
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.pdb
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\bin\Release\i00BindingList.dll.config
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.ResolveComReference.cache
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.AboutScreen.resources
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmCrosswordGenerator.resources
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.Resources.resources
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.SpellCheckDialog.resources
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.frmDictionaryEditor.resources
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.GenerateResource.cache
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe.manifest
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.application
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbproj.CopyComplete
+D:\DesktopProjects\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.exe
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\i00SpellCheck\obj\Release\i00SpellCheck.vbprojAssemblyReference.cache

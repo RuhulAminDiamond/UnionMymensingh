@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsUserWiseMeidaPaymentList" targetNamespace="http://tempuri.org/dsUserWiseMeidaPaymentList.xsd" xmlns:mstns="http://tempuri.org/dsUserWiseMeidaPaymentList.xsd" xmlns="http://tempuri.org/dsUserWiseMeidaPaymentList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsUserWiseMeidaPaymentList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsUserWiseMeidaPaymentList" msprop:Generator_UserDSName="dsUserWiseMeidaPaymentList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtUserWiseMeidaPaymentList" msprop:Generator_TableClassName="dtUserWiseMeidaPaymentListDataTable" msprop:Generator_TableVarName="tabledtUserWiseMeidaPaymentList" msprop:Generator_TablePropName="dtUserWiseMeidaPaymentList" msprop:Generator_RowDeletingName="dtUserWiseMeidaPaymentListRowDeleting" msprop:Generator_RowChangingName="dtUserWiseMeidaPaymentListRowChanging" msprop:Generator_RowEvHandlerName="dtUserWiseMeidaPaymentListRowChangeEventHandler" msprop:Generator_RowDeletedName="dtUserWiseMeidaPaymentListRowDeleted" msprop:Generator_UserTableName="dtUserWiseMeidaPaymentList" msprop:Generator_RowChangedName="dtUserWiseMeidaPaymentListRowChanged" msprop:Generator_RowEvArgName="dtUserWiseMeidaPaymentListRowChangeEvent" msprop:Generator_RowClassName="dtUserWiseMeidaPaymentListRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MediaName" msprop:Generator_ColumnVarNameInTable="columnMediaName" msprop:Generator_ColumnPropNameInRow="MediaName" msprop:Generator_ColumnPropNameInTable="MediaNameColumn" msprop:Generator_UserColumnName="MediaName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+              <xs:element name="TranDate" msprop:Generator_ColumnVarNameInTable="columnTranDate" msprop:Generator_ColumnPropNameInRow="TranDate" msprop:Generator_ColumnPropNameInTable="TranDateColumn" msprop:Generator_UserColumnName="TranDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LoginName_x0020_" msprop:Generator_ColumnVarNameInTable="columnLoginName_" msprop:Generator_ColumnPropNameInRow="LoginName_" msprop:Generator_ColumnPropNameInTable="LoginName_Column" msprop:Generator_UserColumnName="LoginName " type="xs:string" minOccurs="0" />
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

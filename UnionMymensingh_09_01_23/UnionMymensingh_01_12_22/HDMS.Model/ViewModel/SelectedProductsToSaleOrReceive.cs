@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HDMS.Model.ViewModel
+{
+    public class SelectedProductsToSaleOrReceive
+    {
+        public long LotNo { get; set; }
+        public int ProductId { get; set; }
+        public string Code { get; set; }
+        public string Name { get; set; }
+        public double Qty { get; set; }
+        public string Unit { get; set; }
+        public double Rate { get; set; }
+        public double Total { get; set; }
+
+        public long InvoiceId { get; set; }
+
+        public string BatchNo { get; set; }
+
+        public DateTime ExpireDate { get; set; }
+
+        public int DebitAccId { get; set; }
+        public int CreditAccId { get; set; }
+    }
+}

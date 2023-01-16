@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsUsedHCVList" targetNamespace="http://tempuri.org/dsUsedHCVList.xsd" xmlns:mstns="http://tempuri.org/dsUsedHCVList.xsd" xmlns="http://tempuri.org/dsUsedHCVList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsUsedHCVList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsUsedHCVList" msprop:Generator_UserDSName="dsUsedHCVList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHCVUsedVoucherList" msprop:Generator_TableClassName="dtHCVUsedVoucherListDataTable" msprop:Generator_TableVarName="tabledtHCVUsedVoucherList" msprop:Generator_TablePropName="dtHCVUsedVoucherList" msprop:Generator_RowDeletingName="dtHCVUsedVoucherListRowDeleting" msprop:Generator_RowChangingName="dtHCVUsedVoucherListRowChanging" msprop:Generator_RowEvHandlerName="dtHCVUsedVoucherListRowChangeEventHandler" msprop:Generator_RowDeletedName="dtHCVUsedVoucherListRowDeleted" msprop:Generator_UserTableName="dtHCVUsedVoucherList" msprop:Generator_RowChangedName="dtHCVUsedVoucherListRowChanged" msprop:Generator_RowEvArgName="dtHCVUsedVoucherListRowChangeEvent" msprop:Generator_RowClassName="dtHCVUsedVoucherListRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TranDate" msprop:Generator_ColumnVarNameInTable="columnTranDate" msprop:Generator_ColumnPropNameInRow="TranDate" msprop:Generator_ColumnPropNameInTable="TranDateColumn" msprop:Generator_UserColumnName="TranDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="HCVSerialNo" msprop:Generator_ColumnVarNameInTable="columnHCVSerialNo" msprop:Generator_ColumnPropNameInRow="HCVSerialNo" msprop:Generator_ColumnPropNameInTable="HCVSerialNoColumn" msprop:Generator_UserColumnName="HCVSerialNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Credit" msprop:Generator_ColumnVarNameInTable="columnCredit" msprop:Generator_ColumnPropNameInRow="Credit" msprop:Generator_ColumnPropNameInTable="CreditColumn" msprop:Generator_UserColumnName="Credit" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

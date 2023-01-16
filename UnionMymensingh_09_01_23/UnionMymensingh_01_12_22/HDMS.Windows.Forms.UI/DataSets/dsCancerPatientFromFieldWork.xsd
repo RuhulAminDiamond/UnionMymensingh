@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCancerPatientFromFieldWork" targetNamespace="http://tempuri.org/dsCancerPatientFromFieldWork.xsd" xmlns:mstns="http://tempuri.org/dsCancerPatientFromFieldWork.xsd" xmlns="http://tempuri.org/dsCancerPatientFromFieldWork.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCancerPatientFromFieldWork" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCancerPatientFromFieldWork" msprop:Generator_UserDSName="dsCancerPatientFromFieldWork">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCancerPatientFromFieldWork" msprop:Generator_TableClassName="dtCancerPatientFromFieldWorkDataTable" msprop:Generator_TableVarName="tabledtCancerPatientFromFieldWork" msprop:Generator_TablePropName="dtCancerPatientFromFieldWork" msprop:Generator_RowDeletingName="dtCancerPatientFromFieldWorkRowDeleting" msprop:Generator_RowChangingName="dtCancerPatientFromFieldWorkRowChanging" msprop:Generator_RowEvHandlerName="dtCancerPatientFromFieldWorkRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCancerPatientFromFieldWorkRowDeleted" msprop:Generator_UserTableName="dtCancerPatientFromFieldWork" msprop:Generator_RowChangedName="dtCancerPatientFromFieldWorkRowChanged" msprop:Generator_RowEvArgName="dtCancerPatientFromFieldWorkRowChangeEvent" msprop:Generator_RowClassName="dtCancerPatientFromFieldWorkRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientInfo" msprop:Generator_ColumnVarNameInTable="columnPatientInfo" msprop:Generator_ColumnPropNameInRow="PatientInfo" msprop:Generator_ColumnPropNameInTable="PatientInfoColumn" msprop:Generator_UserColumnName="PatientInfo" type="xs:string" minOccurs="0" />
+              <xs:element name="AffectedArea" msprop:Generator_ColumnVarNameInTable="columnAffectedArea" msprop:Generator_ColumnPropNameInRow="AffectedArea" msprop:Generator_ColumnPropNameInTable="AffectedAreaColumn" msprop:Generator_UserColumnName="AffectedArea" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrentTreatmentFrom" msprop:Generator_ColumnVarNameInTable="columnCurrentTreatmentFrom" msprop:Generator_ColumnPropNameInRow="CurrentTreatmentFrom" msprop:Generator_ColumnPropNameInTable="CurrentTreatmentFromColumn" msprop:Generator_UserColumnName="CurrentTreatmentFrom" type="xs:string" minOccurs="0" />
+              <xs:element name="PresentStatus" msprop:Generator_ColumnVarNameInTable="columnPresentStatus" msprop:Generator_ColumnPropNameInRow="PresentStatus" msprop:Generator_ColumnPropNameInTable="PresentStatusColumn" msprop:Generator_UserColumnName="PresentStatus" type="xs:string" minOccurs="0" />
+              <xs:element name="Diagnosis" msprop:Generator_ColumnVarNameInTable="columnDiagnosis" msprop:Generator_ColumnPropNameInRow="Diagnosis" msprop:Generator_ColumnPropNameInTable="DiagnosisColumn" msprop:Generator_UserColumnName="Diagnosis" type="xs:string" minOccurs="0" />
+              <xs:element name="FollowUp" msprop:Generator_ColumnVarNameInTable="columnFollowUp" msprop:Generator_ColumnPropNameInRow="FollowUp" msprop:Generator_ColumnPropNameInTable="FollowUpColumn" msprop:Generator_UserColumnName="FollowUp" type="xs:string" minOccurs="0" />
+              <xs:element name="Comment" msprop:Generator_ColumnVarNameInTable="columnComment" msprop:Generator_ColumnPropNameInRow="Comment" msprop:Generator_ColumnPropNameInTable="CommentColumn" msprop:Generator_UserColumnName="Comment" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

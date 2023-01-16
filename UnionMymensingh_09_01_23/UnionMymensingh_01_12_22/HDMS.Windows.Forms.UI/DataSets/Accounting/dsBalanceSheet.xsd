@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsBalanceSheet" targetNamespace="http://tempuri.org/dsBalanceSheet.xsd" xmlns:mstns="http://tempuri.org/dsBalanceSheet.xsd" xmlns="http://tempuri.org/dsBalanceSheet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsBalanceSheet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsBalanceSheet" msprop:Generator_UserDSName="dsBalanceSheet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtBalanceSheet" msprop:Generator_TableClassName="dtBalanceSheetDataTable" msprop:Generator_TableVarName="tabledtBalanceSheet" msprop:Generator_TablePropName="dtBalanceSheet" msprop:Generator_RowDeletingName="dtBalanceSheetRowDeleting" msprop:Generator_RowChangingName="dtBalanceSheetRowChanging" msprop:Generator_RowEvHandlerName="dtBalanceSheetRowChangeEventHandler" msprop:Generator_RowDeletedName="dtBalanceSheetRowDeleted" msprop:Generator_UserTableName="dtBalanceSheet" msprop:Generator_RowChangedName="dtBalanceSheetRowChanged" msprop:Generator_RowEvArgName="dtBalanceSheetRowChangeEvent" msprop:Generator_RowClassName="dtBalanceSheetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TopAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnTopAccountHeadName" msprop:Generator_ColumnPropNameInRow="TopAccountHeadName" msprop:Generator_ColumnPropNameInTable="TopAccountHeadNameColumn" msprop:Generator_UserColumnName="TopAccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="MasterAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnMasterAccountHeadName" msprop:Generator_ColumnPropNameInRow="MasterAccountHeadName" msprop:Generator_ColumnPropNameInTable="MasterAccountHeadNameColumn" msprop:Generator_UserColumnName="MasterAccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="SubAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnSubAccountHeadName" msprop:Generator_ColumnPropNameInRow="SubAccountHeadName" msprop:Generator_ColumnPropNameInTable="SubAccountHeadNameColumn" msprop:Generator_UserColumnName="SubAccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrentMonthValue" msprop:Generator_ColumnVarNameInTable="columnCurrentMonthValue" msprop:Generator_ColumnPropNameInRow="CurrentMonthValue" msprop:Generator_ColumnPropNameInTable="CurrentMonthValueColumn" msprop:Generator_UserColumnName="CurrentMonthValue" type="xs:double" minOccurs="0" />
+              <xs:element name="LibilityTopAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnLibilityTopAccountHeadName" msprop:Generator_ColumnPropNameInRow="LibilityTopAccountHeadName" msprop:Generator_ColumnPropNameInTable="LibilityTopAccountHeadNameColumn" msprop:Generator_UserColumnName="LibilityTopAccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="LibilityMasterAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnLibilityMasterAccountHeadName" msprop:Generator_ColumnPropNameInRow="LibilityMasterAccountHeadName" msprop:Generator_ColumnPropNameInTable="LibilityMasterAccountHeadNameColumn" msprop:Generator_UserColumnName="LibilityMasterAccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="LiabilitySubSubTopHeadName" msprop:Generator_ColumnVarNameInTable="columnLiabilitySubSubTopHeadName" msprop:Generator_ColumnPropNameInRow="LiabilitySubSubTopHeadName" msprop:Generator_ColumnPropNameInTable="LiabilitySubSubTopHeadNameColumn" msprop:Generator_UserColumnName="LiabilitySubSubTopHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="LibilityCurrentMonthValue" msprop:Generator_ColumnVarNameInTable="columnLibilityCurrentMonthValue" msprop:Generator_ColumnPropNameInRow="LibilityCurrentMonthValue" msprop:Generator_ColumnPropNameInTable="LibilityCurrentMonthValueColumn" msprop:Generator_UserColumnName="LibilityCurrentMonthValue" type="xs:double" minOccurs="0" />
+              <xs:element name="LibilitySubAccountHeadName" msprop:Generator_ColumnVarNameInTable="columnLibilitySubAccountHeadName" msprop:Generator_ColumnPropNameInRow="LibilitySubAccountHeadName" msprop:Generator_ColumnPropNameInTable="LibilitySubAccountHeadNameColumn" msprop:Generator_UserColumnName="LibilitySubAccountHeadName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

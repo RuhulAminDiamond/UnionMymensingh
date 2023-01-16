@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>E:\DeskTopSoftware\MomiHospitalThakurga\publish\|E:\NR\DoctorStadium\|E:\NR\|E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\Publish\|E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\Publish\doctor_11_08_2021\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.88.212\mahupdate\local\|http://115.69.214.67/mahupdate/|\\115.69.214.67\mahupdate\local\|\\192.168.88.212\mahupdate\|\\115.69.214.67\mahupdate\real\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\192.168.88.212\mahupdate\local\|http://115.69.214.67/mahupdate/|\\115.69.214.67\mahupdate\local\|\\115.69.214.67\mahupdate\real\|\\192.168.88.212\mahupdate\real\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

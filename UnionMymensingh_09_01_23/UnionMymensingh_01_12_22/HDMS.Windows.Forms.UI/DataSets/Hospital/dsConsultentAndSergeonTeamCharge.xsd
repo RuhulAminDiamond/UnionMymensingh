@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsConsultentAndSergeonTeamCharge" targetNamespace="http://tempuri.org/dsConsultentAndSergeonTeamCharge.xsd" xmlns:mstns="http://tempuri.org/dsConsultentAndSergeonTeamCharge.xsd" xmlns="http://tempuri.org/dsConsultentAndSergeonTeamCharge.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsConsultentAndSergeonTeamCharge" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsConsultentAndSergeonTeamCharge" msprop:Generator_UserDSName="dsConsultentAndSergeonTeamCharge">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtConsultentAndSergeonTeamCharge_x0020_" msprop:Generator_TableClassName="dtConsultentAndSergeonTeamCharge_DataTable" msprop:Generator_TableVarName="tabledtConsultentAndSergeonTeamCharge_" msprop:Generator_TablePropName="dtConsultentAndSergeonTeamCharge_" msprop:Generator_RowDeletingName="dtConsultentAndSergeonTeamCharge_RowDeleting" msprop:Generator_RowChangingName="dtConsultentAndSergeonTeamCharge_RowChanging" msprop:Generator_RowEvHandlerName="dtConsultentAndSergeonTeamCharge_RowChangeEventHandler" msprop:Generator_RowDeletedName="dtConsultentAndSergeonTeamCharge_RowDeleted" msprop:Generator_UserTableName="dtConsultentAndSergeonTeamCharge " msprop:Generator_RowChangedName="dtConsultentAndSergeonTeamCharge_RowChanged" msprop:Generator_RowEvArgName="dtConsultentAndSergeonTeamCharge_RowChangeEvent" msprop:Generator_RowClassName="dtConsultentAndSergeonTeamCharge_Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="WordorCabin" msprop:Generator_ColumnVarNameInTable="columnWordorCabin" msprop:Generator_ColumnPropNameInRow="WordorCabin" msprop:Generator_ColumnPropNameInTable="WordorCabinColumn" msprop:Generator_UserColumnName="WordorCabin" type="xs:string" minOccurs="0" />
+              <xs:element name="MediaName" msprop:Generator_ColumnVarNameInTable="columnMediaName" msprop:Generator_ColumnPropNameInRow="MediaName" msprop:Generator_ColumnPropNameInTable="MediaNameColumn" msprop:Generator_UserColumnName="MediaName" type="xs:string" minOccurs="0" />
+              <xs:element name="Refby" msprop:Generator_ColumnVarNameInTable="columnRefby" msprop:Generator_ColumnPropNameInRow="Refby" msprop:Generator_ColumnPropNameInTable="RefbyColumn" msprop:Generator_UserColumnName="Refby" type="xs:string" minOccurs="0" />
+              <xs:element name="Assignby" msprop:Generator_ColumnVarNameInTable="columnAssignby" msprop:Generator_ColumnPropNameInRow="Assignby" msprop:Generator_ColumnPropNameInTable="AssignbyColumn" msprop:Generator_UserColumnName="Assignby" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="SergonFee" msprop:Generator_ColumnVarNameInTable="columnSergonFee" msprop:Generator_ColumnPropNameInRow="SergonFee" msprop:Generator_ColumnPropNameInTable="SergonFeeColumn" msprop:Generator_UserColumnName="SergonFee" type="xs:double" minOccurs="0" />
+              <xs:element name="AsstDrFee" msprop:Generator_ColumnVarNameInTable="columnAsstDrFee" msprop:Generator_ColumnPropNameInRow="AsstDrFee" msprop:Generator_ColumnPropNameInTable="AsstDrFeeColumn" msprop:Generator_UserColumnName="AsstDrFee" type="xs:double" minOccurs="0" />
+              <xs:element name="Ansth" msprop:Generator_ColumnVarNameInTable="columnAnsth" msprop:Generator_ColumnPropNameInRow="Ansth" msprop:Generator_ColumnPropNameInTable="AnsthColumn" msprop:Generator_UserColumnName="Ansth" type="xs:double" minOccurs="0" />
+              <xs:element name="Pedi" msprop:Generator_ColumnVarNameInTable="columnPedi" msprop:Generator_ColumnPropNameInRow="Pedi" msprop:Generator_ColumnPropNameInTable="PediColumn" msprop:Generator_UserColumnName="Pedi" type="xs:double" minOccurs="0" />
+              <xs:element name="ConsltFee" msprop:Generator_ColumnVarNameInTable="columnConsltFee" msprop:Generator_ColumnPropNameInRow="ConsltFee" msprop:Generator_ColumnPropNameInTable="ConsltFeeColumn" msprop:Generator_UserColumnName="ConsltFee" type="xs:double" minOccurs="0" />
+              <xs:element name="Medicine" msprop:Generator_ColumnVarNameInTable="columnMedicine" msprop:Generator_ColumnPropNameInRow="Medicine" msprop:Generator_ColumnPropNameInTable="MedicineColumn" msprop:Generator_UserColumnName="Medicine" type="xs:double" minOccurs="0" />
+              <xs:element name="SubTotal" msprop:Generator_ColumnVarNameInTable="columnSubTotal" msprop:Generator_ColumnPropNameInRow="SubTotal" msprop:Generator_ColumnPropNameInTable="SubTotalColumn" msprop:Generator_UserColumnName="SubTotal" type="xs:double" minOccurs="0" />
+              <xs:element name="AdmFee" msprop:Generator_ColumnVarNameInTable="columnAdmFee" msprop:Generator_ColumnPropNameInRow="AdmFee" msprop:Generator_ColumnPropNameInTable="AdmFeeColumn" msprop:Generator_UserColumnName="AdmFee" type="xs:double" minOccurs="0" />
+              <xs:element name="HospitalBill" msprop:Generator_ColumnVarNameInTable="columnHospitalBill" msprop:Generator_ColumnPropNameInRow="HospitalBill" msprop:Generator_ColumnPropNameInTable="HospitalBillColumn" msprop:Generator_UserColumnName="HospitalBill" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="PaidAmount" msprop:Generator_ColumnVarNameInTable="columnPaidAmount" msprop:Generator_ColumnPropNameInRow="PaidAmount" msprop:Generator_ColumnPropNameInTable="PaidAmountColumn" msprop:Generator_UserColumnName="PaidAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="NetAmount" msprop:Generator_ColumnVarNameInTable="columnNetAmount" msprop:Generator_ColumnPropNameInRow="NetAmount" msprop:Generator_ColumnPropNameInTable="NetAmountColumn" msprop:Generator_UserColumnName="NetAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

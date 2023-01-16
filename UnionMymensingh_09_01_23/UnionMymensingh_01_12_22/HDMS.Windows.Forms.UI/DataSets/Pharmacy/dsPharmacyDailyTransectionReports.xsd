@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPharmacyDailyTransectionReports" targetNamespace="http://tempuri.org/dsPharmacyDailyTransectionReports.xsd" xmlns:mstns="http://tempuri.org/dsPharmacyDailyTransectionReports.xsd" xmlns="http://tempuri.org/dsPharmacyDailyTransectionReports.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPharmacyDailyTransectionReports" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPharmacyDailyTransectionReports" msprop:Generator_UserDSName="dsPharmacyDailyTransectionReports">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPharmacyDailyTransectionReports" msprop:Generator_TableClassName="dtPharmacyDailyTransectionReportsDataTable" msprop:Generator_TableVarName="tabledtPharmacyDailyTransectionReports" msprop:Generator_TablePropName="dtPharmacyDailyTransectionReports" msprop:Generator_RowDeletingName="dtPharmacyDailyTransectionReportsRowDeleting" msprop:Generator_RowChangingName="dtPharmacyDailyTransectionReportsRowChanging" msprop:Generator_RowEvHandlerName="dtPharmacyDailyTransectionReportsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPharmacyDailyTransectionReportsRowDeleted" msprop:Generator_UserTableName="dtPharmacyDailyTransectionReports" msprop:Generator_RowChangedName="dtPharmacyDailyTransectionReportsRowChanged" msprop:Generator_RowEvArgName="dtPharmacyDailyTransectionReportsRowChangeEvent" msprop:Generator_RowClassName="dtPharmacyDailyTransectionReportsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Purchase" msprop:Generator_ColumnVarNameInTable="columnPurchase" msprop:Generator_ColumnPropNameInRow="Purchase" msprop:Generator_ColumnPropNameInTable="PurchaseColumn" msprop:Generator_UserColumnName="Purchase" type="xs:double" minOccurs="0" />
+              <xs:element name="PurReturn" msprop:Generator_ColumnVarNameInTable="columnPurReturn" msprop:Generator_ColumnPropNameInRow="PurReturn" msprop:Generator_ColumnPropNameInTable="PurReturnColumn" msprop:Generator_UserColumnName="PurReturn" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalSales" msprop:Generator_ColumnVarNameInTable="columnTotalSales" msprop:Generator_ColumnPropNameInRow="TotalSales" msprop:Generator_ColumnPropNameInTable="TotalSalesColumn" msprop:Generator_UserColumnName="TotalSales" type="xs:double" minOccurs="0" />
+              <xs:element name="CashSales" msprop:Generator_ColumnVarNameInTable="columnCashSales" msprop:Generator_ColumnPropNameInRow="CashSales" msprop:Generator_ColumnPropNameInTable="CashSalesColumn" msprop:Generator_UserColumnName="CashSales" type="xs:double" minOccurs="0" />
+              <xs:element name="DuesSales" msprop:Generator_ColumnVarNameInTable="columnDuesSales" msprop:Generator_ColumnPropNameInRow="DuesSales" msprop:Generator_ColumnPropNameInTable="DuesSalesColumn" msprop:Generator_UserColumnName="DuesSales" type="xs:double" minOccurs="0" />
+              <xs:element name="SalesReturn" msprop:Generator_ColumnVarNameInTable="columnSalesReturn" msprop:Generator_ColumnPropNameInRow="SalesReturn" msprop:Generator_ColumnPropNameInTable="SalesReturnColumn" msprop:Generator_UserColumnName="SalesReturn" type="xs:double" minOccurs="0" />
+              <xs:element name="Profit" msprop:Generator_ColumnVarNameInTable="columnProfit" msprop:Generator_ColumnPropNameInRow="Profit" msprop:Generator_ColumnPropNameInTable="ProfitColumn" msprop:Generator_UserColumnName="Profit" type="xs:double" minOccurs="0" />
+              <xs:element name="Less" msprop:Generator_ColumnVarNameInTable="columnLess" msprop:Generator_ColumnPropNameInRow="Less" msprop:Generator_ColumnPropNameInTable="LessColumn" msprop:Generator_UserColumnName="Less" type="xs:double" minOccurs="0" />
+              <xs:element name="NetProfit" msprop:Generator_ColumnVarNameInTable="columnNetProfit" msprop:Generator_ColumnPropNameInRow="NetProfit" msprop:Generator_ColumnPropNameInTable="NetProfitColumn" msprop:Generator_UserColumnName="NetProfit" type="xs:double" minOccurs="0" />
+              <xs:element name="CashRecived" msprop:Generator_ColumnVarNameInTable="columnCashRecived" msprop:Generator_ColumnPropNameInRow="CashRecived" msprop:Generator_ColumnPropNameInTable="CashRecivedColumn" msprop:Generator_UserColumnName="CashRecived" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalCash" msprop:Generator_ColumnVarNameInTable="columnTotalCash" msprop:Generator_ColumnPropNameInRow="TotalCash" msprop:Generator_ColumnPropNameInTable="TotalCashColumn" msprop:Generator_UserColumnName="TotalCash" type="xs:double" minOccurs="0" />
+              <xs:element name="TransectionDate" msprop:Generator_ColumnVarNameInTable="columnTransectionDate" msprop:Generator_ColumnPropNameInRow="TransectionDate" msprop:Generator_ColumnPropNameInTable="TransectionDateColumn" msprop:Generator_UserColumnName="TransectionDate" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

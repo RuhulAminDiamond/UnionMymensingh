@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDiscountList" targetNamespace="http://tempuri.org/dsDiscountList.xsd" xmlns:mstns="http://tempuri.org/dsDiscountList.xsd" xmlns="http://tempuri.org/dsDiscountList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDiscountList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDiscountList" msprop:Generator_UserDSName="dsDiscountList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtDiscountList" msprop:Generator_TableClassName="dtDiscountListDataTable" msprop:Generator_TableVarName="tabledtDiscountList" msprop:Generator_TablePropName="dtDiscountList" msprop:Generator_RowDeletingName="dtDiscountListRowDeleting" msprop:Generator_RowChangingName="dtDiscountListRowChanging" msprop:Generator_RowEvHandlerName="dtDiscountListRowChangeEventHandler" msprop:Generator_RowDeletedName="dtDiscountListRowDeleted" msprop:Generator_UserTableName="dtDiscountList" msprop:Generator_RowChangedName="dtDiscountListRowChanged" msprop:Generator_RowEvArgName="dtDiscountListRowChangeEvent" msprop:Generator_RowClassName="dtDiscountListRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:long" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscountCareOf" msprop:Generator_ColumnVarNameInTable="columnDiscountCareOf" msprop:Generator_ColumnPropNameInRow="DiscountCareOf" msprop:Generator_ColumnPropNameInTable="DiscountCareOfColumn" msprop:Generator_UserColumnName="DiscountCareOf" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="TranDate" msprop:Generator_ColumnVarNameInTable="columnTranDate" msprop:Generator_ColumnPropNameInRow="TranDate" msprop:Generator_ColumnPropNameInTable="TranDateColumn" msprop:Generator_UserColumnName="TranDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DiscountFromDue" msprop:Generator_ColumnVarNameInTable="columnDiscountFromDue" msprop:Generator_ColumnPropNameInRow="DiscountFromDue" msprop:Generator_ColumnPropNameInTable="DiscountFromDueColumn" msprop:Generator_UserColumnName="DiscountFromDue" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalDiscount" msprop:Generator_ColumnVarNameInTable="columnTotalDiscount" msprop:Generator_ColumnPropNameInRow="TotalDiscount" msprop:Generator_ColumnPropNameInTable="TotalDiscountColumn" msprop:Generator_UserColumnName="TotalDiscount" type="xs:double" minOccurs="0" />
+              <xs:element name="OperateBy" msprop:Generator_ColumnVarNameInTable="columnOperateBy" msprop:Generator_ColumnPropNameInRow="OperateBy" msprop:Generator_ColumnPropNameInTable="OperateByColumn" msprop:Generator_UserColumnName="OperateBy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

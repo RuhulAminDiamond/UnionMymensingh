@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsUnUsedCard" targetNamespace="http://tempuri.org/dsUnUsedCard.xsd" xmlns:mstns="http://tempuri.org/dsUnUsedCard.xsd" xmlns="http://tempuri.org/dsUnUsedCard.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsUnUsedCard" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsUnUsedCard" msprop:Generator_UserDSName="dsUnUsedCard">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtUnUsedCard" msprop:Generator_TableClassName="dtUnUsedCardDataTable" msprop:Generator_TableVarName="tabledtUnUsedCard" msprop:Generator_TablePropName="dtUnUsedCard" msprop:Generator_RowDeletingName="dtUnUsedCardRowDeleting" msprop:Generator_RowChangingName="dtUnUsedCardRowChanging" msprop:Generator_RowEvHandlerName="dtUnUsedCardRowChangeEventHandler" msprop:Generator_RowDeletedName="dtUnUsedCardRowDeleted" msprop:Generator_UserTableName="dtUnUsedCard" msprop:Generator_RowChangedName="dtUnUsedCardRowChanged" msprop:Generator_RowEvArgName="dtUnUsedCardRowChangeEvent" msprop:Generator_RowClassName="dtUnUsedCardRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CardNo" msprop:Generator_ColumnVarNameInTable="columnCardNo" msprop:Generator_ColumnPropNameInRow="CardNo" msprop:Generator_ColumnPropNameInTable="CardNoColumn" msprop:Generator_UserColumnName="CardNo" type="xs:long" minOccurs="0" />
+              <xs:element name="CardType" msprop:Generator_ColumnVarNameInTable="columnCardType" msprop:Generator_ColumnPropNameInRow="CardType" msprop:Generator_ColumnPropNameInTable="CardTypeColumn" msprop:Generator_UserColumnName="CardType" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

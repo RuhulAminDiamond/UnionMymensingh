@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReceivePayment" targetNamespace="http://tempuri.org/dsReceivePayment.xsd" xmlns:mstns="http://tempuri.org/dsReceivePayment.xsd" xmlns="http://tempuri.org/dsReceivePayment.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReceivePayment" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsReceivePayment" msprop:Generator_UserDSName="dsReceivePayment">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsReceivePayment" msprop:Generator_TableClassName="dsReceivePaymentDataTable" msprop:Generator_TableVarName="tabledsReceivePayment" msprop:Generator_TablePropName="_dsReceivePayment" msprop:Generator_RowDeletingName="dsReceivePaymentRowDeleting" msprop:Generator_RowChangingName="dsReceivePaymentRowChanging" msprop:Generator_RowEvHandlerName="dsReceivePaymentRowChangeEventHandler" msprop:Generator_RowDeletedName="dsReceivePaymentRowDeleted" msprop:Generator_UserTableName="dsReceivePayment" msprop:Generator_RowChangedName="dsReceivePaymentRowChanged" msprop:Generator_RowEvArgName="dsReceivePaymentRowChangeEvent" msprop:Generator_RowClassName="dsReceivePaymentRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SerialNo" msprop:Generator_ColumnVarNameInTable="columnSerialNo" msprop:Generator_ColumnPropNameInRow="SerialNo" msprop:Generator_ColumnPropNameInTable="SerialNoColumn" msprop:Generator_UserColumnName="SerialNo" type="xs:double" minOccurs="0" />
+              <xs:element name="ReceiveOrPayment" msprop:Generator_ColumnVarNameInTable="columnReceiveOrPayment" msprop:Generator_ColumnPropNameInRow="ReceiveOrPayment" msprop:Generator_ColumnPropNameInTable="ReceiveOrPaymentColumn" msprop:Generator_UserColumnName="ReceiveOrPayment" type="xs:string" minOccurs="0" />
+              <xs:element name="Particulars" msprop:Generator_ColumnVarNameInTable="columnParticulars" msprop:Generator_ColumnPropNameInRow="Particulars" msprop:Generator_ColumnPropNameInTable="ParticularsColumn" msprop:Generator_UserColumnName="Particulars" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrentDateRangeAmount" msprop:Generator_ColumnVarNameInTable="columnCurrentDateRangeAmount" msprop:Generator_ColumnPropNameInRow="CurrentDateRangeAmount" msprop:Generator_ColumnPropNameInTable="CurrentDateRangeAmountColumn" msprop:Generator_UserColumnName="CurrentDateRangeAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="PrevDateRangeAmount" msprop:Generator_ColumnVarNameInTable="columnPrevDateRangeAmount" msprop:Generator_ColumnPropNameInRow="PrevDateRangeAmount" msprop:Generator_ColumnPropNameInTable="PrevDateRangeAmountColumn" msprop:Generator_UserColumnName="PrevDateRangeAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

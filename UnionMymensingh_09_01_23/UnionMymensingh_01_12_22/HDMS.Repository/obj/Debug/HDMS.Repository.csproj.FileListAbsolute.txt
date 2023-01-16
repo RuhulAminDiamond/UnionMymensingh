@@ -1,0 +1,915 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\Universal\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\Universal\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\Universal\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\Universal\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\Universal\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\Universal\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\Yousuf_MAH_TRUST\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\GitRepoFiles\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_05_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\EntityFramework.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\EntityFramework.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\MountAdora\MAH_08_06_2021\MAH_08_06_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Insaf Naraygonj\Insag Narayangonj\SourceFile\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\_projects\Munzu Hospital Baga\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\MunzuHospitalBagha_src_2021-08-01\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Momi Diagnostic\MomiDiagHospitalThakurga\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\_projects\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\_projects\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\_projects\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\_projects\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\_projects\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\_projects\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csprojAssemblyReference.cache
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\Software 2015 New Addition\Nirapod Mymensingh\NirapodMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\_projects\Union\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\_projects\Union\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\_projects\Union\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\_projects\Union\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\_projects\Union\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\_projects\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\_projects\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\_projects\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\_projects\Union\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\_projects\Union\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Project File\Union08_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project File\Union08_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Project File\Union08_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Project File\Union08_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Project File\Union08_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Project File\Union08_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Project File\Union09_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project File\Union09_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Project File\Union09_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Project File\Union09_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Project File\Union09_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Project File\Union09_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Project File\Union15_08_2022\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project File\Union15_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Project File\Union15_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Project File\Union15_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Project File\Union15_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Project File\Union15_08_2022\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Software\UnionMymensing\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Union 2\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\PROJECT FILE\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Software 2019\UnionMymensingh\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Software 2019\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Software 2019\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Software 2019\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Software 2019\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Software 2019\UnionMymensingh\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.xml
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+E:\PROJECT FILE\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Software 2019\UnionMymensingh_01_12_22\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll.config
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Repository.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\HDMS.Model.dll.config
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.xml
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.AssemblyReference.cache
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CoreCompileInputs.cache
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.csproj.CopyComplete
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Repository\obj\Debug\HDMS.Repository.pdb

@@ -1,0 +1,495 @@
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a ball.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a body part.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a bone.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a golf ball.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a hole.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a horse.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a liquid.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a metal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a musical instrument.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a person.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a place.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a shoe.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a string instrument.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a substance.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\a target.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\accounting.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\alcohol.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\american football.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\an animal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\an image.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\an organ.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\ancient greece.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\and coins in particular.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\animals.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\architecture.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\art.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as a bomb.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as a judge.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as a piece of machinery.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as in a meeting.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as on a ship.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as property.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\as water.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\astrology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\baseball.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\basketball.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\bible.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\biology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\board games.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in america.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in austria.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in canada.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in england.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in france.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in germany.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in hungary.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in ireland.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in new zealand.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in poland.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in russia.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in scotland.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\born in the united states.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\botany.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\boxing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\bridge.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\british.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\business.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\card games.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\cattle.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\chemistry.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\chess.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\christian theology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\christianity.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\civil law.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\clothes.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\color.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\computer science.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\computing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\cricket.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\criminal law.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\data.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\dna or rna.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\documents.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\eggs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\electronic data.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\electronics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially a bacterium.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially a molar tooth.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially a piano duet.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially alcohol.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially blood.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially by nuclear weapons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially cattle.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially dinner.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially in a private home.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially in religion.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially language.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially money.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially of promises or contracts.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially of the bible.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially of wood.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\especially water.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\fencing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\film.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\food.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\football.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\game.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\games.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\genetics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\golf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\great britain.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\greek mythology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\heraldry.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\hinduism and buddhism.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\hinduism.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\horseshoes.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\ice hockey.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\images or sounds.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\in india.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\independent of sex differences.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\information.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\islam.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\jewish folklore.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\judaism.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\law.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\light or sound.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\literary.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\mathematics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\meat.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\mechanics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\medicine.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\metals.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\microbiology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\military personnel.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\military.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\money.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\music.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\nautical.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\neuroscience.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\new testament.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\norse mythology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a baseball.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a bed.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a liquid.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a musical instrument.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a nuclear reaction.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a person.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a sailing vessel.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a ship or plane.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a specimen for study under a microscope.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of a substance.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of an organ or body part.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of animals.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of birds.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of champagne.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of clothing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of coffee.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of color.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of drugs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of flora or fauna.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of fluids.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of hair or clothing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of language.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of light.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of limbs and feet.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of meat.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of motor vehicles.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of pages of a book.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of persons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of plant or animal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of plants and shrubs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of plants.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of real estate.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of securities.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of sleep.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of soil.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of sound.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of sounds.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of speech sounds.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of speech.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of the moon.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of time.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of weapons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of weather or climate.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of weather.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of winds.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of wine.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\of wood.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\old testament.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\or animal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\or any sound resembling this.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\or other liquid.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\or sexual relations with.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\people.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\person or animal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\photography.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\physics and chemistry.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\physics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\plants and animals.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\printing.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\property.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\radiology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\religion.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\roman catholic church.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\roman mythology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\rugby.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\sound.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\spoken or written.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\sport.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\sports.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\statistics.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\substances.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\surgery.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\technology.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\tennis.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\the lips.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\united kingdom.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used especially of machinery.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used especially of persons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of color.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of grass or vegetation.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of metals.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of persons or behaviors.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of persons or the military.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of persons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of soil.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of the military.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\used of timepieces.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually a bell.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually alcoholic.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually cylindrical.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually in water.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually made of wood.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually metal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually red.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually white.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\usually written.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\water.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\weapons.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\wood or metal.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def\wood.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\dic.dic
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\def.def
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\syn.syn
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ad.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ae.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\af.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ag.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ai.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\al.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\am.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\an.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ao.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ar.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\as.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\at.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\au.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\aw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ax.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\az.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ba.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bb.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bd.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\be.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bi.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bj.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bo.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\br.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\by.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\bz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ca.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\catalonia.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cd.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ch.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ci.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ck.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\co.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cx.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cy.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\cz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\de.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\dj.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\dk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\dm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\do.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\dz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ec.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ee.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\eg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\eh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\england.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\er.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\es.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\et.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\europeanunion.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fam.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fi.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fj.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fo.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\fr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ga.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gb.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gd.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ge.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gi.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gp.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gq.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\gy.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\hk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\hm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\hn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\hr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ht.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\hu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\id.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ie.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\il.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\in.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\io.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\iq.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ir.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\is.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\it.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\jm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\jo.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\jp.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ke.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ki.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\km.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kp.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ky.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\kz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\la.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lb.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\li.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ls.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\lv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ly.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ma.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\md.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\me.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ml.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mo.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mp.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mq.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ms.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mx.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\my.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\mz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\na.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ne.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ng.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ni.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\no.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\np.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\nz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\om.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pa.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pe.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ph.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ps.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\pw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\py.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\qa.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\re.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ro.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\rs.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ru.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\rw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sa.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sb.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\scotland.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sd.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\se.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sh.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\si.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sj.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\so.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\st.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sy.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\sz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\td.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\th.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tj.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tk.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tl.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\to.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tr.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tv.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\tz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ua.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ug.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\um.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\us.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\uy.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\uz.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\va.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\vc.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ve.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\vg.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\vi.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\vn.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\vu.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\wales.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\wf.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ws.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\ye.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\yt.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\za.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\zm.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\Flags\zw.png
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\TextBoxTranslator.exe
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\TextBoxTranslator.pdb
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\i00SpellCheck.exe
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\i00BindingList.exe
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\i00SpellCheck.pdb
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\bin\Debug\i00BindingList.pdb
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.vbprojAssemblyReference.cache
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.frmTest.resources
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.Resources.resources
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.vbproj.GenerateResource.cache
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.vbproj.CoreCompileInputs.cache
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.vbproj.CopyComplete
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.exe
+E:\Process_Zone\i00_SpellCheck_20140111 (1)\Plugins\TextBoxTranslator\obj\Debug\TextBoxTranslator.pdb

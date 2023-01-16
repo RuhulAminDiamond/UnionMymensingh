@@ -1,0 +1,2166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="i00SpellCheck.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="i00SpellCheck" version="1.0.0.23094" language="neutral" processorArchitecture="msil" />
+    <commandLine file="i00SpellCheck.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="i00BindingList.dll" size="221696">
+      <assemblyIdentity name="i00BindingList" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1GaDfmAh1LAv7PUqf35MpESifXBRuFPIyczl28TnpqY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="i00SpellCheck.exe" size="15216640">
+      <assemblyIdentity name="i00SpellCheck" version="1.0.0.23094" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vWo0zz9e3CLxuJLZGtH40ZAgu7OsgSEhyyHLNUv1xDg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="def\a ball.png" size="748">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JcNm9V9cyd0t8En+DwHwtcX3FIDN0zMfyCASGx9Jgjg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a body part.png" size="723">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YiXYAVDZxtHWbNzzFR0zUJORc43vitca5Gpaze+mI8o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a bone.png" size="498">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XWD5zG0NBv8fJCLhJyJHCk/t6YuOu504YfGV61T0SFI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a golf ball.png" size="765">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TmRxnwrUC+RBA/yHZ3q5U2CrLiihVNEePc/PRhD6fwQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a hole.png" size="522">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OIyxUTwDd4PwwwTFlJYiCAZTGod/467wlRajeX7BdNI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a horse.png" size="895">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>D9sMHCqPAI9Mvjik6+N/ia8dFM6AsC5MnYZyoRECSpU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a liquid.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a metal.png" size="278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CQGluroXKqUx34grQImbRI7cef0cAW1I9uWhCtBLEGk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a musical instrument.png" size="817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OQe0QZ057sXZhOlKLDR1uvjaWJKTsz4zCBSb2vP7cCg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a person.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s83PP5RongjGKlbe42EbkjVMmLELrGZQGc3DTyNGyVs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a place.png" size="442">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sTUeAnyQ4d6p3FONcaRGUOxmtGkEuNMc7H4sAF36wOI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a shoe.png" size="826">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tkJqvWLVgaGfAZgAPU2wVOlGmtgOROgqgKlRGzKOJQk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a string instrument.png" size="840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zALJR+evjs/3Zy39iEqtfgUYsuAAMK2S3muXvdNc8o4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a substance.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\a target.png" size="850">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p+l0GMhtDcZuRPbqvh6QAr+T3JvEfg6IMra+8eNLdGw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\accounting.png" size="970">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TVDIF1fUdudo1V/rkze+gjJpsruBSocNIW8Txfumrno=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\alcohol.png" size="700">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uHkTKFQpg6ylFaedUK9rkm9mhcAke5uxbl+HeXSQH9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\american football.png" size="901">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Babbv7BoR/q2Zc8szolwFi8qhpKDN334Ve3FYVs5wdM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\an animal.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LpXZcgA+2EGqF31esKffFthAkFro2T+UNZJEgRMfJxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\an image.png" size="666">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7ho4lZnzUKNsULX+tU2OnAROg9vw5g2qpGFHniiZypc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\an organ.png" size="812">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SgSSwhqD21DUAG0hiIC5i96+yMQ6YzAKDPHGE0fyaLw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\ancient greece.png" size="669">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fCXNSjfrSwpVm6to43T3RHc7fxqnL33eiGEN/1F+pGA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\and coins in particular.png" size="642">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9WJlUsITJmh3BQNMgnmRL+gEYZEvdeG8zcNkRgKGWHo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\animals.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LpXZcgA+2EGqF31esKffFthAkFro2T+UNZJEgRMfJxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\architecture.png" size="669">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fCXNSjfrSwpVm6to43T3RHc7fxqnL33eiGEN/1F+pGA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\art.png" size="861">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Zy/jWo6hWdiFDnLsuuB5kZXvo5zF8geEdAtxQ+tOU6A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as a bomb.png" size="964">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gPHj+SiCuN9XjslVQDzzw6qN+Twwg6W4WzpHJIzvxd0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as a judge.png" size="698">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>woY4wFRayPvRgi/+k0OXud9QYv4bo1K07kwXOWaGA3k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as a piece of machinery.png" size="794">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QD6OQnVSjFfgZ52NaVswiylspNoiTP9KAqDsGSCYwPM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as in a meeting.png" size="966">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aOgTOxSKnyEaRWcyfoduAnZeN91PTU1/23SK/t80mbk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as on a ship.png" size="731">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>22zm2PqLukqf8G9BTL5ER4Q7Edy4+zKmicwSWAI8K3c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as property.png" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>krKZ/emgmHMNyo+lCXFOxbye43k+wMY3mkM5w/5fxAA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\as water.png" size="796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RHRm8qBwG7VtEE+Zptmd8+Z4IfG6IbqLZdTaAh99pns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\astrology.png" size="822">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R2P67bi3odBOSmozEFhm9STQ7sXiiGy3ANbZKemX944=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\baseball.png" size="1011">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VRU5uuWLaCC8Zb3JsLhS1NIE3zaTKqPSVzyQxc4b0DI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\basketball.png" size="809">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/RczUCfCFD8pYY37yAoH8KZyS8sCdQ4ZmfeJvLJRPDk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\bible.png" size="741">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CNX5tHy2k1OuAaywRoB5Tek+opBizdWIuvRm5rboa2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\biology.png" size="832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kwu5p7AG6ipBwK90jQUmzoeavPJ/aW/GeL7vAfrTPQI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\board games.png" size="889">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KFQP/J8GUbLtri5+/lmZjU3zAtaZrdLS8hRgubxVcrk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in america.png" size="460">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Bh/Xit8wC6bRyumaB19ObU7cTUT8z+/ev2ktrx+KhJc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in austria.png" size="269">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NexzstFtjBnrTyx0VkGsXCwL+ANoYJh9ziIli9f6hc8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in canada.png" size="511">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eD+CkKLJccFACyzrbmAhzld3wZWim+MI339x9Fn4o44=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in england.png" size="317">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>S9Tvc8nrsG21f31a7fFGIXknNkHgQ/W6gRzNi8WssGw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in france.png" size="818">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VYrfdt5Io/LpOxvRTIeTZjlaXFcoaY9thLpiQon91O4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in germany.png" size="306">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>153keLCDSOJjQG/ePpCB15o0XW+xvkbCcG/G9b7frPo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in hungary.png" size="953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EPcZ/W0IY7k4QqSCI4iFEkqhnzDarCm8hy7JFQClY40=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in ireland.png" size="718">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f/7PCxtQR+9sr+YdqS4xipyoeUtTz5wFZsMxV/h7FQQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in new zealand.png" size="765">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yYKtbdxlY+3fINHqPBDs7BOyglSqAKf3Z67v1ZVBXi0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in poland.png" size="258">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CQ9GebsgkR+KTPXYg3YLIa0sKKQi6lorO/z1jmrmVbo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in russia.png" size="807">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pRLOCD8sp21tjpmiVhLeWVjlnbnS5LF/pSuaWgK3Dls=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in scotland.png" size="719">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>C41TjANHH5gpqQ92oK3o6jLygmRvrZfT3ZVyaHnztZY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\born in the united states.png" size="423">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HymrAA/xMcc0Psrqu9Gq4LbjsSnyfcRHa/nYeqgMdl4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\botany.png" size="525">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SzipDVJRTrNuvFy9CD2hieFR7MOL/+1w7JUArHOcr68=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\boxing.png" size="800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DjbE7a68V8aQdvbqVgDB6OMHleFHl19KHYtCr+dmF8o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\bridge.png" size="299">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cN4a3ew4rPv79dNftrIMDJipMn7glzJH6OjGTlT+NbE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\british.png" size="843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e7zottBQjGiwX+ZtT3CzMxKm4lF//MIFxqMigfys7gs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\business.png" size="870">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PAMAchz4sig4Wl/YX+vk9hI03veJdgyQl/+08WOIaWk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\card games.png" size="904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2K88DEZHz/R4JXYEfjShNg/9yiGszKXSg6Egs71sE5U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\cattle.png" size="1103">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qN3T9428W3tGmu8Wpo7zrTuQZi4ql+W8YyTxG8DL0gw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\chemistry.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MoPhRy62y1wrtFEDjB5RAHLri/c8FBp63Oj1DwMUsRY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\chess.png" size="537">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1Sw2k6HwUVs/gBYPjTkAPuRjqZvool9talkwdzBA5z0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\christian theology.png" size="578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hviYvMD8Xvo/uMSmL4WlyOA2p6eXLocOcElm5IUTgCw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\christianity.png" size="578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hviYvMD8Xvo/uMSmL4WlyOA2p6eXLocOcElm5IUTgCw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\civil law.png" size="953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0qbNI2OUQQJD87WvmrQA6Oz4aLtFmh5xTmMObV5BeXA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\clothes.png" size="787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XMHSS+H1ECTFjnZ+67Y8pmkKzznr88KRqt7mLqIEE6w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\color.png" size="968">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ivms/sALtaFHtCvq4ZQFy0vMwMew3/5mVLinrpI99/M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\computer science.png" size="822">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>V21PRmMo3lXNsKWSCohdNeCPyShCOdSbdWbAGjjA1uc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\computing.png" size="1083">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>E0hwXw8Pl6fIgv3rQoVxOhodUgJMDjh0L6NKzI7zD6Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\cricket.png" size="1127">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WVGciNc81EFqCrbkOMuhcgKubjCDppXCteS4C5A0Y00=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\criminal law.png" size="953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0qbNI2OUQQJD87WvmrQA6Oz4aLtFmh5xTmMObV5BeXA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\data.png" size="268">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yNUdXua6QB9s6UITBI/YJdFacDpA16HLhPAfuVIkcNs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\dna or rna.png" size="410">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>76WNswltPsBtMqpzgZ2+ueMTSDlygHCwBPKIVMSKCtM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\documents.png" size="464">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vsHoUtnHMkFmIVvOP8gZ1Hut6AODN4mp16wgJXx78f4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\eggs.png" size="647">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sGUeR2bft9LG62nnJsyaGz6+miUS80CLJ0LgaxEJvp0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\electronic data.png" size="261">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kWLYOd9H/RQFhHAYT4qek0wybdXu7XExN/BS8lUtjLQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\electronics.png" size="753">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HSmwig9GY3axwWLRGymfo/a+VM0oGKUlZCJ3vKvuPpU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially a bacterium.png" size="962">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xH6KgRuDzuD09Y54D7maye8ofc3kPw0h2Bj0cSXLM+M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially a molar tooth.png" size="581">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>o+s/vLzGOK+dv3TsF0eXcYp7QEuTOdJWEAsBB1bxcoo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially a piano duet.png" size="750">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>twjEz2qTjp8q9ApJKeKLhCB72xIxSNIoEJX1x5l7+SM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially alcohol.png" size="700">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uHkTKFQpg6ylFaedUK9rkm9mhcAke5uxbl+HeXSQH9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially blood.png" size="667">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>N5MnqR5i39Mf+vJ45DxgHddt1Aso2mnvWGQscCJsR0Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially by nuclear weapons.png" size="768">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YBuB5/KenTD9Nbamso5HSAxDY1sX1cNU0X9eoBm/ixk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially cattle.png" size="1103">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qN3T9428W3tGmu8Wpo7zrTuQZi4ql+W8YyTxG8DL0gw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially dinner.png" size="607">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>85e0km+4BGrLsb8YRd1XqNBeJQ9Q9fpkmBH7AFJm9dM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially in a private home.png" size="522">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>a2844gk1WhPRXHT3vrvukU9sFpOLK/hxjMIkwBpuMV4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially in religion.png" size="265">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mRGmJYko8mU9vu8GWP3JNLD2YqfuwmWHgmx2cTxFR/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially language.png" size="448">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dqAE49zXs7MfyUSQK+Ftbzgz6DxIZU4OWsIYXaXqfas=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially money.png" size="764">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bHJ0WTGb7cGx3wmV+vpg8c0QxEsSVHi/MUYVHTc2jcY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially of promises or contracts.png" size="870">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PAMAchz4sig4Wl/YX+vk9hI03veJdgyQl/+08WOIaWk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially of the bible.png" size="741">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CNX5tHy2k1OuAaywRoB5Tek+opBizdWIuvRm5rboa2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially of wood.png" size="538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eHvrUoGdTrWUP0IaUchgC6hCK0crVLHrFMrzK/+8/7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\especially water.png" size="796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RHRm8qBwG7VtEE+Zptmd8+Z4IfG6IbqLZdTaAh99pns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\fencing.png" size="761">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wZdkes8XMBw0uXEvFeke0nZi2NNIeGXXC7Ab0Xqt9Ro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\film.png" size="702">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PSw9P+k5j+M0nqAiw2uC+NpHF0Zj0N8payMLWCeNxMI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\food.png" size="390">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2BGU16AgVXT1VbWzfvUELryKpvcjpWUJQ2VzyL03+/M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\football.png" size="901">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Babbv7BoR/q2Zc8szolwFi8qhpKDN334Ve3FYVs5wdM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\game.png" size="697">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BhIj4yWgRwIkee221KEOkBfrP4Sf7LkxUANvXFpJCsI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\games.png" size="697">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BhIj4yWgRwIkee221KEOkBfrP4Sf7LkxUANvXFpJCsI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\genetics.png" size="339">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5z4B/eVlI+RfvM77lVD2WCglnF1e1MdKMWRr32UIIf0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\golf.png" size="765">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TmRxnwrUC+RBA/yHZ3q5U2CrLiihVNEePc/PRhD6fwQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\great britain.png" size="843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e7zottBQjGiwX+ZtT3CzMxKm4lF//MIFxqMigfys7gs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\greek mythology.png" size="529">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bvqhGx/j949uUjpWtjgCSjeh8GiFrjV9p6ofap8MbdE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\heraldry.png" size="735">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YZZGhNde8Q1QLmt56CGP9+ZLkusQOpXGxxuvpzAhLmY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\hinduism and buddhism.png" size="710">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>grZHIQ4MNvgA/BqFa8FBr6YotqdQdC2omiqJdSBz+6I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\hinduism.png" size="710">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>grZHIQ4MNvgA/BqFa8FBr6YotqdQdC2omiqJdSBz+6I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\horseshoes.png" size="704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bQgSLR+mUrBPK4mqjSZlZF0tmXy7uW0/zlmdqFw6lOE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\ice hockey.png" size="620">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Jt0VvXmPtN6ChCjKIMJpXnrf+YDC8qwR4nQwiQ9soHU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\images or sounds.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\in india.png" size="893">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xdWDQMukNMYLICD56J9Nu3qeC4b32A//ebvJoXeALaw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\independent of sex differences.png" size="532">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3K06fWmeOPUotpXDuiJ51pb9WWi1NSVfkJIrqSu4vCI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\information.png" size="760">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FmbLYnaOXobh3Y1pFByma49RBFZ5BSmrz4PspIjiCCg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\islam.png" size="620">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Qu9BObU9HWhJjQbKHhgkZV7I1DS+DqP43xa1BHfcw/k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\jewish folklore.png" size="628">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>crj6rdqGBU7p9Td0xXMpbaRHNbOg2ac2PrBCLWS375g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\judaism.png" size="628">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>crj6rdqGBU7p9Td0xXMpbaRHNbOg2ac2PrBCLWS375g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\law.png" size="953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0qbNI2OUQQJD87WvmrQA6Oz4aLtFmh5xTmMObV5BeXA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\light or sound.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\literary.png" size="706">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uzHt2q1rW8PbGTfPTQGMDDXo/yHxCiNl4skZaoi75Eg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\mathematics.png" size="398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GO5Lt9xpDBoykG8R6VdINuZbcK2c2TSYY32BigUTYrg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\meat.png" size="798">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f55DVl8I82f7wvEm1Ct8tip2n9jiG7B4qPlG+MlnAjY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\mechanics.png" size="894">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sb00sYye3zPIDi8tsybQqXrDW+8/d66M52UARRtcRnY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\medicine.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ihQZIb7cxsB3JIN1ded90mDME9pCodlebnpKRe/9VXQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\metals.png" size="278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CQGluroXKqUx34grQImbRI7cef0cAW1I9uWhCtBLEGk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\microbiology.png" size="832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kwu5p7AG6ipBwK90jQUmzoeavPJ/aW/GeL7vAfrTPQI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\military personnel.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rTcaNrrHKQoxaZlxPtmp565dDLPHjkKriYXa6g2l92U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\military.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rTcaNrrHKQoxaZlxPtmp565dDLPHjkKriYXa6g2l92U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\money.png" size="764">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bHJ0WTGb7cGx3wmV+vpg8c0QxEsSVHi/MUYVHTc2jcY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\music.png" size="628">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cytL3QNDScEhEUrkKfC6hDggWJI3R4Io55crF14qPgE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\nautical.png" size="511">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3E5rJ4AEcGgi+L8SV2GKEjRRu4jI4Sc7M0jEpRxjXRo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\neuroscience.png" size="832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kwu5p7AG6ipBwK90jQUmzoeavPJ/aW/GeL7vAfrTPQI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\new testament.png" size="741">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CNX5tHy2k1OuAaywRoB5Tek+opBizdWIuvRm5rboa2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\norse mythology.png" size="529">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bvqhGx/j949uUjpWtjgCSjeh8GiFrjV9p6ofap8MbdE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a baseball.png" size="1011">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VRU5uuWLaCC8Zb3JsLhS1NIE3zaTKqPSVzyQxc4b0DI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a bed.png" size="510">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2MjH1PUyWZ8eridbsz2DD4uChpLXsjVj0dijiy4LxyA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a liquid.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a musical instrument.png" size="817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OQe0QZ057sXZhOlKLDR1uvjaWJKTsz4zCBSb2vP7cCg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a nuclear reaction.png" size="768">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YBuB5/KenTD9Nbamso5HSAxDY1sX1cNU0X9eoBm/ixk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a person.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s83PP5RongjGKlbe42EbkjVMmLELrGZQGc3DTyNGyVs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a sailing vessel.png" size="731">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>22zm2PqLukqf8G9BTL5ER4Q7Edy4+zKmicwSWAI8K3c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a ship or plane.png" size="731">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>22zm2PqLukqf8G9BTL5ER4Q7Edy4+zKmicwSWAI8K3c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a specimen for study under a microscope.png" size="832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kwu5p7AG6ipBwK90jQUmzoeavPJ/aW/GeL7vAfrTPQI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of a substance.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of an organ or body part.png" size="812">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SgSSwhqD21DUAG0hiIC5i96+yMQ6YzAKDPHGE0fyaLw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of animals.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LpXZcgA+2EGqF31esKffFthAkFro2T+UNZJEgRMfJxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of birds.png" size="916">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Rwdug40HitnTT60G5rzziscikRLTdxVuyaBBOCduja0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of champagne.png" size="642">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PdP/kX/J6UU54XmvZ+QoLSjg8QwMO9e1Pi0GYDtsOPM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of clothing.png" size="787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XMHSS+H1ECTFjnZ+67Y8pmkKzznr88KRqt7mLqIEE6w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of coffee.png" size="836">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>A6Ikn7esLuk1aWIjSygzf0FxphX/RgBZv7VkP/Qip+g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of color.png" size="968">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ivms/sALtaFHtCvq4ZQFy0vMwMew3/5mVLinrpI99/M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of drugs.png" size="758">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FHdY68RMmlvPznH1805HmtzUDhBWfsZWtTEp7YCquF0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of flora or fauna.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of fluids.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of hair or clothing.png" size="787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XMHSS+H1ECTFjnZ+67Y8pmkKzznr88KRqt7mLqIEE6w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of language.png" size="448">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dqAE49zXs7MfyUSQK+Ftbzgz6DxIZU4OWsIYXaXqfas=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of light.png" size="664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TtiVTmZCxUpgDGPK4pgfbSeU7c/y0tmffKYvm6XtejU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of limbs and feet.png" size="742">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZKCdWH5XfDXXvhchvJ5EFn3DvnLwlzpIsnQdAtdXl4k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of meat.png" size="798">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f55DVl8I82f7wvEm1Ct8tip2n9jiG7B4qPlG+MlnAjY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of motor vehicles.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ETlfTBUlfCxxZOSMq6x+6rf90lwCw/MThI+Y+vGrkr8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of pages of a book.png" size="761">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EHtphqsOyHlO7z6uaiLSExUR8k5h+TsSvzhzrHox6cI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of persons.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s83PP5RongjGKlbe42EbkjVMmLELrGZQGc3DTyNGyVs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of plant or animal.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of plants and shrubs.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of plants.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of real estate.png" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>krKZ/emgmHMNyo+lCXFOxbye43k+wMY3mkM5w/5fxAA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of securities.png" size="530">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>veqIDTiL3V/bnaClDAq10s3pMZZIwgoHtOyu7jJ+1E8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of sleep.png" size="851">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>N2YvS22NRCK476rc4FRG3/mlMfgCXWE9YeHXXpAQ/9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of soil.png" size="917">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0fl/QTGCsv79A8eQksaRTF2gK65pBriJWYvSPRsKRXc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of sound.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of sounds.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of speech sounds.png" size="342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BXEvHZdC45adNUp7tXjKvY56meKGWYCs/oAmMjYI6X8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of speech.png" size="342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BXEvHZdC45adNUp7tXjKvY56meKGWYCs/oAmMjYI6X8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of the moon.png" size="770">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+PTHGxU63Eqaqd4p43kq8wtXx0vDZ98NsMOyzoC2JmM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of time.png" size="830">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zEmfSBCWuBW9euYTQAjc3V4EZNn+Qd3Swf60i/Ghyuc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of weapons.png" size="331">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bBO5zKhlyU7nIGH+xLT+nZHQiYqgz6Mjz69mDuh5pbE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of weather or climate.png" size="680">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JINFW27OyP18TaCv538YljI7ieEmdPqYVdeFqwYgDbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of weather.png" size="680">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JINFW27OyP18TaCv538YljI7ieEmdPqYVdeFqwYgDbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of winds.png" size="583">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MW9KZw000Y/87Lx+q5iL2Fy9DvsYJpa/7l7DikPwBrU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of wine.png" size="756">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1krI9Z+s3oqQZW3VnFsIVqcsDYWDWQcjDAGLqrhcuac=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\of wood.png" size="538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eHvrUoGdTrWUP0IaUchgC6hCK0crVLHrFMrzK/+8/7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\old testament.png" size="741">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CNX5tHy2k1OuAaywRoB5Tek+opBizdWIuvRm5rboa2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\or animal.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LpXZcgA+2EGqF31esKffFthAkFro2T+UNZJEgRMfJxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\or any sound resembling this.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\or other liquid.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\or sexual relations with.png" size="532">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3K06fWmeOPUotpXDuiJ51pb9WWi1NSVfkJIrqSu4vCI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\people.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nwr0vK5mFqXgjJfgxfF7UoownkPjTtwj9+X+ozq7Jnk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\person or animal.png" size="413">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LpXZcgA+2EGqF31esKffFthAkFro2T+UNZJEgRMfJxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\photography.png" size="582">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tQZ75PFcV/4gIiWon1yrvSIKggAKaNwD12ZpzZWnm1E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\physics and chemistry.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MoPhRy62y1wrtFEDjB5RAHLri/c8FBp63Oj1DwMUsRY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\physics.png" size="381">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6yJQPZumQ59GIh/W3sMqX2h/f6Wcf0hikSUV6QlPeK0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\plants and animals.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\printing.png" size="465">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HjQurSP8ohFXUuUi+KIOxzOEQCOAp828TfrZ9Eg4n8Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\property.png" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>krKZ/emgmHMNyo+lCXFOxbye43k+wMY3mkM5w/5fxAA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\radiology.png" size="891">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>l41wU6c4oyHFHJeow1U3CdZuoyKH2WW+Sf7nkaozIlo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\religion.png" size="265">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mRGmJYko8mU9vu8GWP3JNLD2YqfuwmWHgmx2cTxFR/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\roman catholic church.png" size="578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hviYvMD8Xvo/uMSmL4WlyOA2p6eXLocOcElm5IUTgCw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\roman mythology.png" size="529">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bvqhGx/j949uUjpWtjgCSjeh8GiFrjV9p6ofap8MbdE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\rugby.png" size="901">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Babbv7BoR/q2Zc8szolwFi8qhpKDN334Ve3FYVs5wdM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\sound.png" size="644">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GRzsKOTUEI3N1vGhWczGfwCrO4cqZD1pLw9HBt7Fdzo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\spoken or written.png" size="342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BXEvHZdC45adNUp7tXjKvY56meKGWYCs/oAmMjYI6X8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\sport.png" size="1038">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MdvSybKZKY5da4p8AwmMyDUhhLFSOj1eDgl+DxZ3W2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\sports.png" size="816">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/unyFGCi4I+uj0kXYWpjMwZ4Mcqzv1PGNVqQX5uvyKA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\statistics.png" size="752">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BWiGWSNxrqG54Ke6rPmUQ670kBxCqMV25Ugwd8ClHfA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\substances.png" size="778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kGVBXEEUbrDN8bf/GqPXlLIox4W2Afg+8SRbD7lhR0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\surgery.png" size="683">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1ihHYHHr4lvsLD9aND5zgOQHSq4fQhBSipbjMoY+Xs0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\technology.png" size="511">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wO2pOg/Hs16l+hSMU4Bo8z9iLyBhcTEDMUJB9hSkWTs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\tennis.png" size="779">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VHFRH8E7rY+wReHRRzzzruZt2He7fmE+8YDME7IgWF0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\the lips.png" size="1009">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>a072xCzm9S2X76TnCQWAds3TNmGEVlVMlQ/4Actpv08=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\united kingdom.png" size="843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e7zottBQjGiwX+ZtT3CzMxKm4lF//MIFxqMigfys7gs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used especially of machinery.png" size="794">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QD6OQnVSjFfgZ52NaVswiylspNoiTP9KAqDsGSCYwPM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used especially of persons.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nwr0vK5mFqXgjJfgxfF7UoownkPjTtwj9+X+ozq7Jnk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of color.png" size="968">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ivms/sALtaFHtCvq4ZQFy0vMwMew3/5mVLinrpI99/M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of grass or vegetation.png" size="674">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>se+dhh1IBo+F90bFone9haHCaG2vWHhMJVumPtS57Rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of metals.png" size="278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CQGluroXKqUx34grQImbRI7cef0cAW1I9uWhCtBLEGk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of persons or behaviors.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nwr0vK5mFqXgjJfgxfF7UoownkPjTtwj9+X+ozq7Jnk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of persons or the military.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rTcaNrrHKQoxaZlxPtmp565dDLPHjkKriYXa6g2l92U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of persons.png" size="713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nwr0vK5mFqXgjJfgxfF7UoownkPjTtwj9+X+ozq7Jnk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of soil.png" size="917">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0fl/QTGCsv79A8eQksaRTF2gK65pBriJWYvSPRsKRXc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of the military.png" size="773">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rTcaNrrHKQoxaZlxPtmp565dDLPHjkKriYXa6g2l92U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\used of timepieces.png" size="907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wXRMYtoRnfIwJIm+wNrjk4a9wwVu/kJG60hyaECAFfI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually a bell.png" size="818">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Z2mdpNy2nwCYwA+bkI63a7b0rJKmSX1o//m7fOWIJT0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually alcoholic.png" size="700">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uHkTKFQpg6ylFaedUK9rkm9mhcAke5uxbl+HeXSQH9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually cylindrical.png" size="447">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s/xZNvI3KTqo4WNR20tiK+vSE1OJX/4eZRE2lZAve5A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually in water.png" size="796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RHRm8qBwG7VtEE+Zptmd8+Z4IfG6IbqLZdTaAh99pns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually made of wood.png" size="538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eHvrUoGdTrWUP0IaUchgC6hCK0crVLHrFMrzK/+8/7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually metal.png" size="278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CQGluroXKqUx34grQImbRI7cef0cAW1I9uWhCtBLEGk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually red.png" size="364">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g51AGD1G4uV6geUu2WYW9AS6P1bCTsrcWwLl5jytRnI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually white.png" size="870">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>U22exFEKBW4nIWfAW8uXQ6tVuh+BDNxVcMi18EI2LFI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\usually written.png" size="825">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>URiUZ84MM5G9j2TQ9cKMaX14MxcO+mbfNk0DbWXBqZg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\water.png" size="796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RHRm8qBwG7VtEE+Zptmd8+Z4IfG6IbqLZdTaAh99pns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\weapons.png" size="331">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bBO5zKhlyU7nIGH+xLT+nZHQiYqgz6Mjz69mDuh5pbE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\wood or metal.png" size="538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eHvrUoGdTrWUP0IaUchgC6hCK0crVLHrFMrzK/+8/7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="def\wood.png" size="538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eHvrUoGdTrWUP0IaUchgC6hCK0crVLHrFMrzK/+8/7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="i00SpellCheck.exe.config" size="1363">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XMIBFQkyT7Gbnkl3zNWVYAf3Ct0j+H1LQcU+0TzMjwI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Icon.ico" size="82726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gflI+21erSm5dkFtDBK3k3TTO6Q+LRwOCr3HqU9KAIo=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

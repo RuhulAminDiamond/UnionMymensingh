@@ -1,0 +1,2 @@
+IF ({ReportDefination.FontBold})= 0 then
+  IF({ReportDefination.Title})<>"" THEN crBold

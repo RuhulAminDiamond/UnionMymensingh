@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReferredCaseByIPDorOPD" targetNamespace="http://tempuri.org/dsReferredCaseByIPDorOPD.xsd" xmlns:mstns="http://tempuri.org/dsReferredCaseByIPDorOPD.xsd" xmlns="http://tempuri.org/dsReferredCaseByIPDorOPD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReferredCaseByIPDorOPD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsReferredCaseByIPDorOPD" msprop:Generator_UserDSName="dsReferredCaseByIPDorOPD">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtRefdCaseByIPDOPD" msprop:Generator_TableClassName="dtRefdCaseByIPDOPDDataTable" msprop:Generator_TableVarName="tabledtRefdCaseByIPDOPD" msprop:Generator_RowChangedName="dtRefdCaseByIPDOPDRowChanged" msprop:Generator_TablePropName="dtRefdCaseByIPDOPD" msprop:Generator_RowDeletingName="dtRefdCaseByIPDOPDRowDeleting" msprop:Generator_RowChangingName="dtRefdCaseByIPDOPDRowChanging" msprop:Generator_RowEvHandlerName="dtRefdCaseByIPDOPDRowChangeEventHandler" msprop:Generator_RowDeletedName="dtRefdCaseByIPDOPDRowDeleted" msprop:Generator_RowClassName="dtRefdCaseByIPDOPDRow" msprop:Generator_UserTableName="dtRefdCaseByIPDOPD" msprop:Generator_RowEvArgName="dtRefdCaseByIPDOPDRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AdvisorName" msprop:Generator_ColumnVarNameInTable="columnAdvisorName" msprop:Generator_ColumnPropNameInRow="AdvisorName" msprop:Generator_ColumnPropNameInTable="AdvisorNameColumn" msprop:Generator_UserColumnName="AdvisorName" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalPatient" msprop:Generator_ColumnVarNameInTable="columnTotalPatient" msprop:Generator_ColumnPropNameInRow="TotalPatient" msprop:Generator_ColumnPropNameInTable="TotalPatientColumn" msprop:Generator_UserColumnName="TotalPatient" type="xs:long" minOccurs="0" />
+              <xs:element name="TestAmount" msprop:Generator_ColumnVarNameInTable="columnTestAmount" msprop:Generator_ColumnPropNameInRow="TestAmount" msprop:Generator_ColumnPropNameInTable="TestAmountColumn" msprop:Generator_UserColumnName="TestAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalDiscount" msprop:Generator_ColumnVarNameInTable="columnTotalDiscount" msprop:Generator_ColumnPropNameInRow="TotalDiscount" msprop:Generator_ColumnPropNameInTable="TotalDiscountColumn" msprop:Generator_UserColumnName="TotalDiscount" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscountWithdraw" msprop:Generator_ColumnVarNameInTable="columnDiscountWithdraw" msprop:Generator_ColumnPropNameInRow="DiscountWithdraw" msprop:Generator_ColumnPropNameInTable="DiscountWithdrawColumn" msprop:Generator_UserColumnName="DiscountWithdraw" type="xs:double" minOccurs="0" />
+              <xs:element name="NetDiscount" msprop:Generator_ColumnVarNameInTable="columnNetDiscount" msprop:Generator_ColumnPropNameInRow="NetDiscount" msprop:Generator_ColumnPropNameInTable="NetDiscountColumn" msprop:Generator_UserColumnName="NetDiscount" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

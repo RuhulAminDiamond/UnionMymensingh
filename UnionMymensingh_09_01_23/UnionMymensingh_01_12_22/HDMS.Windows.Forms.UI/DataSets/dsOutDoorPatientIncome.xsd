@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsOutDoorPatientIncome" targetNamespace="http://tempuri.org/dsOutDoorPatientIncome.xsd" xmlns:mstns="http://tempuri.org/dsOutDoorPatientIncome.xsd" xmlns="http://tempuri.org/dsOutDoorPatientIncome.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsOutDoorPatientIncome" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsOutDoorPatientIncome" msprop:Generator_UserDSName="dsOutDoorPatientIncome">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtOutDoorPatientIncome" msprop:Generator_TableClassName="dtOutDoorPatientIncomeDataTable" msprop:Generator_TableVarName="tabledtOutDoorPatientIncome" msprop:Generator_RowChangedName="dtOutDoorPatientIncomeRowChanged" msprop:Generator_TablePropName="dtOutDoorPatientIncome" msprop:Generator_RowDeletingName="dtOutDoorPatientIncomeRowDeleting" msprop:Generator_RowChangingName="dtOutDoorPatientIncomeRowChanging" msprop:Generator_RowEvHandlerName="dtOutDoorPatientIncomeRowChangeEventHandler" msprop:Generator_RowDeletedName="dtOutDoorPatientIncomeRowDeleted" msprop:Generator_RowClassName="dtOutDoorPatientIncomeRow" msprop:Generator_UserTableName="dtOutDoorPatientIncome" msprop:Generator_RowEvArgName="dtOutDoorPatientIncomeRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RegNo" msprop:Generator_ColumnVarNameInTable="columnRegNo" msprop:Generator_ColumnPropNameInRow="RegNo" msprop:Generator_ColumnPropNameInTable="RegNoColumn" msprop:Generator_UserColumnName="RegNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:int" minOccurs="0" />
+              <xs:element name="HCVAdjust" msprop:Generator_ColumnVarNameInTable="columnHCVAdjust" msprop:Generator_ColumnPropNameInRow="HCVAdjust" msprop:Generator_ColumnPropNameInTable="HCVAdjustColumn" msprop:Generator_UserColumnName="HCVAdjust" type="xs:int" minOccurs="0" />
+              <xs:element name="PoorFund" msprop:Generator_ColumnVarNameInTable="columnPoorFund" msprop:Generator_ColumnPropNameInRow="PoorFund" msprop:Generator_ColumnPropNameInTable="PoorFundColumn" msprop:Generator_UserColumnName="PoorFund" type="xs:int" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

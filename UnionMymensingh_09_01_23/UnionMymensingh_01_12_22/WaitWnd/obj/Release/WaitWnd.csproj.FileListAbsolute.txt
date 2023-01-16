@@ -1,0 +1,34 @@
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.Resource1.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.WaitForm.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.GenerateResource.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.Resource1.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.WaitForm.resources
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.GenerateResource.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.CoreCompileInputs.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.pdb
+D:\DesktopProjects\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.dll
+D:\DesktopProjects\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.pdb
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.Resource1.resources
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.WaitForm.resources
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.dll
+D:\DesktopProjects\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\bin\Release\WaitWnd.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.Resource1.resources
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.WaitForm.resources
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.GenerateResource.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\WaitWnd\obj\Release\WaitWnd.pdb

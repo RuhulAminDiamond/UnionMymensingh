@@ -1,0 +1,11 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Touchless.Vision_MarkupCompile.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Touchless.Vision.g.resources
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\bin\x64\Debug\Touchless.Vision.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\bin\x64\Debug\Touchless.Vision.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\bin\x64\Debug\WebCamLib.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\bin\x64\Debug\WebCamLib.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\WebCamWrapper.csprojResolveAssemblyReference.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Touchless.Vision.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamWrapper\obj\x64\Debug\Touchless.Vision.pdb

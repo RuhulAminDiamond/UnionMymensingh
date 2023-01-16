@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39432D53-6E06-40C0-A3F1-E66AECD20F19}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HDMS.Service</RootNamespace>
+    <AssemblyName>HDMS.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounting\AccountService.cs" />
+    <Compile Include="Accounting\MiniAccountService.cs" />
+    <Compile Include="Accounting\ReportService.cs" />
+    <Compile Include="Accounting\VoucherService.cs" />
+    <Compile Include="Canteen\PosCommonService.cs" />
+    <Compile Include="Canteen\CustomerServices.cs" />
+    <Compile Include="Canteen\CantItemService.cs" />
+    <Compile Include="Canteen\LedgerService.cs" />
+    <Compile Include="Canteen\ReportingService.cs" />
+    <Compile Include="Common\CommonService.cs" />
+    <Compile Include="Common\LocationService.cs" />
+    <Compile Include="Common\MemberService.cs" />
+    <Compile Include="Common\RegRecordService.cs" />
+    <Compile Include="Common\ChamberPractitionerService.cs" />
+    <Compile Include="Diagonstics\DiagFinancialService.cs" />
+    <Compile Include="Diagonstics\LabService.cs" />
+    <Compile Include="Diagonstics\MediaService.cs" />
+    <Compile Include="Diagonstics\PatientLedgerService.cs" />
+    <Compile Include="Diagonstics\PatientService.cs" />
+    <Compile Include="Diagonstics\ReportService.cs" />
+    <Compile Include="Diagonstics\TemplateService.cs" />
+    <Compile Include="Diagonstics\TestsCostService.cs" />
+    <Compile Include="Diagonstics\TestService.cs" />
+    <Compile Include="Diagonstics\WordReportService.cs" />
+    <Compile Include="Doctors\DoctorService.cs" />
+    <Compile Include="FoodAndBeverage\FoodAndBeverageItemService.cs" />
+    <Compile Include="Hospital\HospitalEmergencyService.cs" />
+    <Compile Include="Hospital\HpFinancialService.cs" />
+    <Compile Include="Hospital\HospitalBillingItemService.cs" />
+    <Compile Include="Hospital\HospitalCabinBedService.cs" />
+    <Compile Include="Hospital\HospitalReportService.cs" />
+    <Compile Include="Hospital\HospitalService.cs" />
+    <Compile Include="Hospital\OTService.cs" />
+    <Compile Include="Hospital\OutDoorPatientService.cs" />
+    <Compile Include="HR\EmployeeService.cs" />
+    <Compile Include="HR\HrCommonService.cs" />
+    <Compile Include="HR\TimedAttendanceLog.cs" />
+    <Compile Include="Media\IPDMediaService.cs" />
+    <Compile Include="Media\MediaService.cs" />
+    <Compile Include="MenuModuleService.cs" />
+    <Compile Include="OPD\OPDFinancialService.cs" />
+    <Compile Include="OPD\OPDPatientLedgerService.cs" />
+    <Compile Include="OPD\OPDPatientService.cs" />
+    <Compile Include="OPD\OPDReportService.cs" />
+    <Compile Include="Pharmacy\PhFinancialService.cs" />
+    <Compile Include="Pharmacy\PhProductClassificationService.cs" />
+    <Compile Include="Pharmacy\PhProductService.cs" />
+    <Compile Include="Pharmacy\PhReportingService.cs" />
+    <Compile Include="Common\SupplierService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rx\RxPhProductService.cs" />
+    <Compile Include="Rx\RxService.cs" />
+    <Compile Include="SCM\SCMService.cs" />
+    <Compile Include="SCM\StoreItemService.cs" />
+    <Compile Include="ShareHolder\ShareHolderService.cs" />
+    <Compile Include="UserService.cs" />
+    <Compile Include="Vehicle\VehicleService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HDMS.Common.Utils\HDMS.Common.Utils.csproj">
+      <Project>{6c8c5445-c524-4845-93be-7e296f91e2f0}</Project>
+      <Name>HDMS.Common.Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HDMS.Model\HDMS.Model.csproj">
+      <Project>{1d07de66-7d98-46e9-91d1-8bf95a9faf25}</Project>
+      <Name>HDMS.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HDMS.Repository\HDMS.Repository.csproj">
+      <Project>{9c768209-fb4f-40c9-986d-90d8f3857a35}</Project>
+      <Name>HDMS.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,30 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+E:\MountAdora_10.4.2021\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\bin\Release\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Release\HDMS.Common.Utils.pdb

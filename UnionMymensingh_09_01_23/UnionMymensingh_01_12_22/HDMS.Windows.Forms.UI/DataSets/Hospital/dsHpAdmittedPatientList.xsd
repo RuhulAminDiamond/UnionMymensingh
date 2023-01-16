@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsHpAdmittedPatientList" targetNamespace="http://tempuri.org/dsHpAdmittedPatientList.xsd" xmlns:mstns="http://tempuri.org/dsHpAdmittedPatientList.xsd" xmlns="http://tempuri.org/dsHpAdmittedPatientList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsHpAdmittedPatientList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsHpAdmittedPatientList" msprop:Generator_UserDSName="dsHpAdmittedPatientList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHpAdmittedPatientList" msprop:Generator_TableClassName="dtHpAdmittedPatientListDataTable" msprop:Generator_TableVarName="tabledtHpAdmittedPatientList" msprop:Generator_RowChangedName="dtHpAdmittedPatientListRowChanged" msprop:Generator_TablePropName="dtHpAdmittedPatientList" msprop:Generator_RowDeletingName="dtHpAdmittedPatientListRowDeleting" msprop:Generator_RowChangingName="dtHpAdmittedPatientListRowChanging" msprop:Generator_RowEvHandlerName="dtHpAdmittedPatientListRowChangeEventHandler" msprop:Generator_RowDeletedName="dtHpAdmittedPatientListRowDeleted" msprop:Generator_RowClassName="dtHpAdmittedPatientListRow" msprop:Generator_UserTableName="dtHpAdmittedPatientList" msprop:Generator_RowEvArgName="dtHpAdmittedPatientListRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="AddmissionDate" msprop:Generator_ColumnVarNameInTable="columnAddmissionDate" msprop:Generator_ColumnPropNameInRow="AddmissionDate" msprop:Generator_ColumnPropNameInTable="AddmissionDateColumn" msprop:Generator_UserColumnName="AddmissionDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AdmissionTime" msprop:Generator_ColumnVarNameInTable="columnAdmissionTime" msprop:Generator_ColumnPropNameInRow="AdmissionTime" msprop:Generator_ColumnPropNameInTable="AdmissionTimeColumn" msprop:Generator_UserColumnName="AdmissionTime" type="xs:string" minOccurs="0" />
+              <xs:element name="FullName" msprop:Generator_ColumnVarNameInTable="columnFullName" msprop:Generator_ColumnPropNameInRow="FullName" msprop:Generator_ColumnPropNameInTable="FullNameColumn" msprop:Generator_UserColumnName="FullName" type="xs:string" minOccurs="0" />
+              <xs:element name="CabinNo" msprop:Generator_ColumnVarNameInTable="columnCabinNo" msprop:Generator_ColumnPropNameInRow="CabinNo" msprop:Generator_ColumnPropNameInTable="CabinNoColumn" msprop:Generator_UserColumnName="CabinNo" type="xs:string" minOccurs="0" />
+              <xs:element name="AssignedDoctorName" msprop:Generator_ColumnVarNameInTable="columnAssignedDoctorName" msprop:Generator_ColumnPropNameInRow="AssignedDoctorName" msprop:Generator_ColumnPropNameInTable="AssignedDoctorNameColumn" msprop:Generator_UserColumnName="AssignedDoctorName" type="xs:string" minOccurs="0" />
+              <xs:element name="MobileNo" msprop:Generator_ColumnVarNameInTable="columnMobileNo" msprop:Generator_ColumnPropNameInRow="MobileNo" msprop:Generator_ColumnPropNameInTable="MobileNoColumn" msprop:Generator_UserColumnName="MobileNo" type="xs:string" minOccurs="0" />
+              <xs:element name="CPAddress" msprop:Generator_ColumnVarNameInTable="columnCPAddress" msprop:Generator_ColumnPropNameInRow="CPAddress" msprop:Generator_ColumnPropNameInTable="CPAddressColumn" msprop:Generator_UserColumnName="CPAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionId" msprop:Generator_ColumnVarNameInTable="columnAdmissionId" msprop:Generator_ColumnPropNameInRow="AdmissionId" msprop:Generator_ColumnPropNameInTable="AdmissionIdColumn" msprop:Generator_UserColumnName="AdmissionId" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

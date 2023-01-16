@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMediaUnpaidStatement" targetNamespace="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns:mstns="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMediaUnpaidStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsMediaUnpaidStatement" msprop:Generator_UserDSName="dsMediaUnpaidStatement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtMediaUnpaidStatement" msprop:Generator_TableClassName="dtMediaUnpaidStatementDataTable" msprop:Generator_TableVarName="tabledtMediaUnpaidStatement" msprop:Generator_TablePropName="dtMediaUnpaidStatement" msprop:Generator_RowDeletingName="dtMediaUnpaidStatementRowDeleting" msprop:Generator_RowChangingName="dtMediaUnpaidStatementRowChanging" msprop:Generator_RowEvHandlerName="dtMediaUnpaidStatementRowChangeEventHandler" msprop:Generator_RowDeletedName="dtMediaUnpaidStatementRowDeleted" msprop:Generator_UserTableName="dtMediaUnpaidStatement" msprop:Generator_RowChangedName="dtMediaUnpaidStatementRowChanged" msprop:Generator_RowEvArgName="dtMediaUnpaidStatementRowChangeEvent" msprop:Generator_RowClassName="dtMediaUnpaidStatementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:long" minOccurs="0" />
+              <xs:element name="BusinessName" msprop:Generator_ColumnVarNameInTable="columnBusinessName" msprop:Generator_ColumnPropNameInRow="BusinessName" msprop:Generator_ColumnPropNameInTable="BusinessNameColumn" msprop:Generator_UserColumnName="BusinessName" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalSales" msprop:Generator_ColumnVarNameInTable="columnTotalSales" msprop:Generator_ColumnPropNameInRow="TotalSales" msprop:Generator_ColumnPropNameInTable="TotalSalesColumn" msprop:Generator_UserColumnName="TotalSales" type="xs:double" minOccurs="0" />
+              <xs:element name="Commission" msprop:Generator_ColumnVarNameInTable="columnCommission" msprop:Generator_ColumnPropNameInRow="Commission" msprop:Generator_ColumnPropNameInTable="CommissionColumn" msprop:Generator_UserColumnName="Commission" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="Paid" msprop:Generator_ColumnVarNameInTable="columnPaid" msprop:Generator_ColumnPropNameInRow="Paid" msprop:Generator_ColumnPropNameInTable="PaidColumn" msprop:Generator_UserColumnName="Paid" type="xs:double" minOccurs="0" />
+              <xs:element name="Unpaid" msprop:Generator_ColumnVarNameInTable="columnUnpaid" msprop:Generator_ColumnPropNameInRow="Unpaid" msprop:Generator_ColumnPropNameInTable="UnpaidColumn" msprop:Generator_UserColumnName="Unpaid" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

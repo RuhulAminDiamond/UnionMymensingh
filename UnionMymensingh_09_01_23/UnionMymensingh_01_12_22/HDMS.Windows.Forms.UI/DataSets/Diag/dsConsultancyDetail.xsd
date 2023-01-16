@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsConsultancyDetail" targetNamespace="http://tempuri.org/dsConsultancyDetail.xsd" xmlns:mstns="http://tempuri.org/dsConsultancyDetail.xsd" xmlns="http://tempuri.org/dsConsultancyDetail.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsConsultancyDetail" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsConsultancyDetail" msprop:Generator_UserDSName="dsConsultancyDetail">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtConsultancyDetail" msprop:Generator_TableClassName="dtConsultancyDetailDataTable" msprop:Generator_TableVarName="tabledtConsultancyDetail" msprop:Generator_RowChangedName="dtConsultancyDetailRowChanged" msprop:Generator_TablePropName="dtConsultancyDetail" msprop:Generator_RowDeletingName="dtConsultancyDetailRowDeleting" msprop:Generator_RowChangingName="dtConsultancyDetailRowChanging" msprop:Generator_RowEvHandlerName="dtConsultancyDetailRowChangeEventHandler" msprop:Generator_RowDeletedName="dtConsultancyDetailRowDeleted" msprop:Generator_RowClassName="dtConsultancyDetailRow" msprop:Generator_UserTableName="dtConsultancyDetail" msprop:Generator_RowEvArgName="dtConsultancyDetailRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PreparedDate" msprop:Generator_ColumnVarNameInTable="columnPreparedDate" msprop:Generator_ColumnPropNameInRow="PreparedDate" msprop:Generator_ColumnPropNameInTable="PreparedDateColumn" msprop:Generator_UserColumnName="PreparedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="ReportType" msprop:Generator_ColumnVarNameInTable="columnReportType" msprop:Generator_ColumnPropNameInRow="ReportType" msprop:Generator_ColumnPropNameInTable="ReportTypeColumn" msprop:Generator_UserColumnName="ReportType" type="xs:string" minOccurs="0" />
+              <xs:element name="Test_x0020_Count" msprop:Generator_ColumnVarNameInTable="columnTest_Count" msprop:Generator_ColumnPropNameInRow="Test_Count" msprop:Generator_ColumnPropNameInTable="Test_CountColumn" msprop:Generator_UserColumnName="Test Count" type="xs:int" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:double" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="FullName" msprop:Generator_ColumnVarNameInTable="columnFullName" msprop:Generator_ColumnPropNameInRow="FullName" msprop:Generator_ColumnPropNameInTable="FullNameColumn" msprop:Generator_UserColumnName="FullName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,191 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\Universal\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\Universal\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\Universal\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\Universal\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\Universal\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\Universal\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHERPOnline\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHNayasarak\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\Goni Hospoital\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\Mount Adora\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\MountAdoraSoftware26\MAHGitRepo_Apr26_2021\MAHGitRepo\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\MountAdora\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\MoutAdora Source And Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\MAH_May23_2021\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopProjects\ShohagFiles\New folder\Mount Adora Source and Data\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csprojAssemblyReference.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+G:\New File 2019\Mount Adora Final\Mount Adora Final\MAH_06_06_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Amena Hospital\Amina Herp\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\Software 2015 New Addition\Life line New Version\Life Line\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\Insag Narayangonj\SourceFile\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\Munzu Hospital Baga\Munzu Hospital Baga\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\DoctorsDiagnosticConsultationCenterSyhletStadium\DoctorDiagnosticConsultationCenter\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\MomiHospitalThakurga\DoctorsDiagStadium\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\_projects\NirapodMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\NirapodMymensingh_13_11_2021\NirapodMymensingh_13_11_2021\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\_projects\Union\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\_projects\Union\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\_projects\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\_projects\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\_projects\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\_projects\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\DeskTopSoftware\UnionMymensingh\Union16_02_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+F:\Project File\Union08_08_2022\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+D:\DesktopSoftware-2\Union\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.AssemblyReference.cache
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+E:\PROJECT FILE\UnionMymensingh\UnionMymensingh\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Common.Utils\bin\Debug\HDMS.Common.Utils.pdb
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.csproj.CoreCompileInputs.cache
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.dll
+F:\Project_File\UnionMymensingh_09_01_23\UnionMymensingh_09_01_23\UnionMymensingh_01_12_22\HDMS.Common.Utils\obj\Debug\HDMS.Common.Utils.pdb

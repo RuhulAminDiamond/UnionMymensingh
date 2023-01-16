@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsJournalVoucher" targetNamespace="http://tempuri.org/dsJournalVoucher.xsd" xmlns:mstns="http://tempuri.org/dsJournalVoucher.xsd" xmlns="http://tempuri.org/dsJournalVoucher.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsJournalVoucher" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsJournalVoucher" msprop:Generator_UserDSName="dsJournalVoucher">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtJournalVoucher" msprop:Generator_TableClassName="dtJournalVoucherDataTable" msprop:Generator_TableVarName="tabledtJournalVoucher" msprop:Generator_TablePropName="dtJournalVoucher" msprop:Generator_RowDeletingName="dtJournalVoucherRowDeleting" msprop:Generator_RowChangingName="dtJournalVoucherRowChanging" msprop:Generator_RowEvHandlerName="dtJournalVoucherRowChangeEventHandler" msprop:Generator_RowDeletedName="dtJournalVoucherRowDeleted" msprop:Generator_UserTableName="dtJournalVoucher" msprop:Generator_RowChangedName="dtJournalVoucherRowChanged" msprop:Generator_RowEvArgName="dtJournalVoucherRowChangeEvent" msprop:Generator_RowClassName="dtJournalVoucherRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="VMId" msprop:Generator_ColumnVarNameInTable="columnVMId" msprop:Generator_ColumnPropNameInRow="VMId" msprop:Generator_ColumnPropNameInTable="VMIdColumn" msprop:Generator_UserColumnName="VMId" type="xs:int" minOccurs="0" />
+              <xs:element name="AccountHeadName" msprop:Generator_ColumnVarNameInTable="columnAccountHeadName" msprop:Generator_ColumnPropNameInRow="AccountHeadName" msprop:Generator_ColumnPropNameInTable="AccountHeadNameColumn" msprop:Generator_UserColumnName="AccountHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="DebitAmount" msdata:Caption="Amount" msprop:Generator_ColumnVarNameInTable="columnDebitAmount" msprop:Generator_ColumnPropNameInRow="DebitAmount" msprop:Generator_ColumnPropNameInTable="DebitAmountColumn" msprop:Generator_UserColumnName="DebitAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="VoucherDate" msprop:Generator_ColumnVarNameInTable="columnVoucherDate" msprop:Generator_ColumnPropNameInRow="VoucherDate" msprop:Generator_ColumnPropNameInTable="VoucherDateColumn" msprop:Generator_UserColumnName="VoucherDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="reamrks" msprop:Generator_ColumnVarNameInTable="columnreamrks" msprop:Generator_ColumnPropNameInRow="reamrks" msprop:Generator_ColumnPropNameInTable="reamrksColumn" msprop:Generator_UserColumnName="reamrks" type="xs:string" minOccurs="0" />
+              <xs:element name="CreditAmount" msprop:Generator_ColumnVarNameInTable="columnCreditAmount" msprop:Generator_ColumnPropNameInRow="CreditAmount" msprop:Generator_ColumnPropNameInTable="CreditAmountColumn" msprop:Generator_UserColumnName="CreditAmount" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

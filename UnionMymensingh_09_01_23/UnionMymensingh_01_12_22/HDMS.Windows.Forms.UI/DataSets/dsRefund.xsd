@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRefund" targetNamespace="http://tempuri.org/dsRefund.xsd" xmlns:mstns="http://tempuri.org/dsRefund.xsd" xmlns="http://tempuri.org/dsRefund.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRefund" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsRefund" msprop:Generator_UserDSName="dsRefund">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtRefund" msprop:Generator_TableClassName="dtRefundDataTable" msprop:Generator_TableVarName="tabledtRefund" msprop:Generator_TablePropName="dtRefund" msprop:Generator_RowDeletingName="dtRefundRowDeleting" msprop:Generator_RowChangingName="dtRefundRowChanging" msprop:Generator_RowEvHandlerName="dtRefundRowChangeEventHandler" msprop:Generator_RowDeletedName="dtRefundRowDeleted" msprop:Generator_UserTableName="dtRefund" msprop:Generator_RowChangedName="dtRefundRowChanged" msprop:Generator_RowEvArgName="dtRefundRowChangeEvent" msprop:Generator_RowClassName="dtRefundRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

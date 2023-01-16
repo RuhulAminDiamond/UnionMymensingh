@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsIndoorLadger" targetNamespace="http://tempuri.org/dsIndoorLadger.xsd" xmlns:mstns="http://tempuri.org/dsIndoorLadger.xsd" xmlns="http://tempuri.org/dsIndoorLadger.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsIndoorLadger" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsIndoorLadger" msprop:Generator_UserDSName="dsIndoorLadger">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtIndoorMedicineBillPatientLadger" msprop:Generator_TableClassName="dtIndoorMedicineBillPatientLadgerDataTable" msprop:Generator_TableVarName="tabledtIndoorMedicineBillPatientLadger" msprop:Generator_TablePropName="dtIndoorMedicineBillPatientLadger" msprop:Generator_RowDeletingName="dtIndoorMedicineBillPatientLadgerRowDeleting" msprop:Generator_RowChangingName="dtIndoorMedicineBillPatientLadgerRowChanging" msprop:Generator_RowEvHandlerName="dtIndoorMedicineBillPatientLadgerRowChangeEventHandler" msprop:Generator_RowDeletedName="dtIndoorMedicineBillPatientLadgerRowDeleted" msprop:Generator_UserTableName="dtIndoorMedicineBillPatientLadger" msprop:Generator_RowChangedName="dtIndoorMedicineBillPatientLadgerRowChanged" msprop:Generator_RowEvArgName="dtIndoorMedicineBillPatientLadgerRowChangeEvent" msprop:Generator_RowClassName="dtIndoorMedicineBillPatientLadgerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TranDate" msprop:Generator_ColumnVarNameInTable="columnTranDate" msprop:Generator_ColumnPropNameInRow="TranDate" msprop:Generator_ColumnPropNameInTable="TranDateColumn" msprop:Generator_UserColumnName="TranDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AdmissionId" msprop:Generator_ColumnVarNameInTable="columnAdmissionId" msprop:Generator_ColumnPropNameInRow="AdmissionId" msprop:Generator_ColumnPropNameInTable="AdmissionIdColumn" msprop:Generator_UserColumnName="AdmissionId" type="xs:long" minOccurs="0" />
+              <xs:element name="Particulars" msprop:Generator_ColumnVarNameInTable="columnParticulars" msprop:Generator_ColumnPropNameInRow="Particulars" msprop:Generator_ColumnPropNameInTable="ParticularsColumn" msprop:Generator_UserColumnName="Particulars" type="xs:string" minOccurs="0" />
+              <xs:element name="Debit" msprop:Generator_ColumnVarNameInTable="columnDebit" msprop:Generator_ColumnPropNameInRow="Debit" msprop:Generator_ColumnPropNameInTable="DebitColumn" msprop:Generator_UserColumnName="Debit" type="xs:double" minOccurs="0" />
+              <xs:element name="Credit" msprop:Generator_ColumnVarNameInTable="columnCredit" msprop:Generator_ColumnPropNameInRow="Credit" msprop:Generator_ColumnPropNameInTable="CreditColumn" msprop:Generator_UserColumnName="Credit" type="xs:double" minOccurs="0" />
+              <xs:element name="Balance" msprop:Generator_ColumnVarNameInTable="columnBalance" msprop:Generator_ColumnPropNameInRow="Balance" msprop:Generator_ColumnPropNameInTable="BalanceColumn" msprop:Generator_UserColumnName="Balance" type="xs:double" minOccurs="0" />
+              <xs:element name="OperateBy" msprop:Generator_ColumnVarNameInTable="columnOperateBy" msprop:Generator_ColumnPropNameInRow="OperateBy" msprop:Generator_ColumnPropNameInTable="OperateByColumn" msprop:Generator_UserColumnName="OperateBy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStool" targetNamespace="http://tempuri.org/dsStool.xsd" xmlns:mstns="http://tempuri.org/dsStool.xsd" xmlns="http://tempuri.org/dsStool.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStool" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsStool" msprop:Generator_UserDSName="dsStool">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtStool" msprop:Generator_TableClassName="dtStoolDataTable" msprop:Generator_TableVarName="tabledtStool" msprop:Generator_TablePropName="dtStool" msprop:Generator_RowDeletingName="dtStoolRowDeleting" msprop:Generator_RowChangingName="dtStoolRowChanging" msprop:Generator_RowEvHandlerName="dtStoolRowChangeEventHandler" msprop:Generator_RowDeletedName="dtStoolRowDeleted" msprop:Generator_UserTableName="dtStool" msprop:Generator_RowChangedName="dtStoolRowChanged" msprop:Generator_RowEvArgName="dtStoolRowChangeEvent" msprop:Generator_RowClassName="dtStoolRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Consistency" msprop:Generator_ColumnVarNameInTable="columnConsistency" msprop:Generator_ColumnPropNameInRow="Consistency" msprop:Generator_ColumnPropNameInTable="ConsistencyColumn" msprop:Generator_UserColumnName="Consistency" type="xs:string" minOccurs="0" />
+              <xs:element name="Colour" msprop:Generator_ColumnVarNameInTable="columnColour" msprop:Generator_ColumnPropNameInRow="Colour" msprop:Generator_ColumnPropNameInTable="ColourColumn" msprop:Generator_UserColumnName="Colour" type="xs:string" minOccurs="0" />
+              <xs:element name="Blood" msprop:Generator_ColumnVarNameInTable="columnBlood" msprop:Generator_ColumnPropNameInRow="Blood" msprop:Generator_ColumnPropNameInTable="BloodColumn" msprop:Generator_UserColumnName="Blood" type="xs:string" minOccurs="0" />
+              <xs:element name="Helminth" msprop:Generator_ColumnVarNameInTable="columnHelminth" msprop:Generator_ColumnPropNameInRow="Helminth" msprop:Generator_ColumnPropNameInTable="HelminthColumn" msprop:Generator_UserColumnName="Helminth" type="xs:string" minOccurs="0" />
+              <xs:element name="Reaction" msprop:Generator_ColumnVarNameInTable="columnReaction" msprop:Generator_ColumnPropNameInRow="Reaction" msprop:Generator_ColumnPropNameInTable="ReactionColumn" msprop:Generator_UserColumnName="Reaction" type="xs:string" minOccurs="0" />
+              <xs:element name="Reducing_x0020_Substance" msprop:Generator_ColumnVarNameInTable="columnReducing_Substance" msprop:Generator_ColumnPropNameInRow="Reducing_Substance" msprop:Generator_ColumnPropNameInTable="Reducing_SubstanceColumn" msprop:Generator_UserColumnName="Reducing Substance" type="xs:string" minOccurs="0" />
+              <xs:element name="Mucus" msprop:Generator_ColumnVarNameInTable="columnMucus" msprop:Generator_ColumnPropNameInRow="Mucus" msprop:Generator_ColumnPropNameInTable="MucusColumn" msprop:Generator_UserColumnName="Mucus" type="xs:string" minOccurs="0" />
+              <xs:element name="Vegetable_x0020_cells" msprop:Generator_ColumnVarNameInTable="columnVegetable_cells" msprop:Generator_ColumnPropNameInRow="Vegetable_cells" msprop:Generator_ColumnPropNameInTable="Vegetable_cellsColumn" msprop:Generator_UserColumnName="Vegetable cells" type="xs:string" minOccurs="0" />
+              <xs:element name="Starch_x0020_granules" msprop:Generator_ColumnVarNameInTable="columnStarch_granules" msprop:Generator_ColumnPropNameInRow="Starch_granules" msprop:Generator_ColumnPropNameInTable="Starch_granulesColumn" msprop:Generator_UserColumnName="Starch granules" type="xs:string" minOccurs="0" />
+              <xs:element name="Epithelial_x0020_cells" msprop:Generator_ColumnVarNameInTable="columnEpithelial_cells" msprop:Generator_ColumnPropNameInRow="Epithelial_cells" msprop:Generator_ColumnPropNameInTable="Epithelial_cellsColumn" msprop:Generator_UserColumnName="Epithelial cells" type="xs:string" minOccurs="0" />
+              <xs:element name="Pus_x0020_cells" msprop:Generator_ColumnVarNameInTable="columnPus_cells" msprop:Generator_ColumnPropNameInRow="Pus_cells" msprop:Generator_ColumnPropNameInTable="Pus_cellsColumn" msprop:Generator_UserColumnName="Pus cells" type="xs:string" minOccurs="0" />
+              <xs:element name="RBCs" msprop:Generator_ColumnVarNameInTable="columnRBCs" msprop:Generator_ColumnPropNameInRow="RBCs" msprop:Generator_ColumnPropNameInTable="RBCsColumn" msprop:Generator_UserColumnName="RBCs" type="xs:string" minOccurs="0" />
+              <xs:element name="Protoza_x0020__x0028_Tropozoite_x0029_" msprop:Generator_ColumnVarNameInTable="_columnProtoza__Tropozoite_" msprop:Generator_ColumnPropNameInRow="_Protoza__Tropozoite_" msprop:Generator_ColumnPropNameInTable="_Protoza__Tropozoite_Column" msprop:Generator_UserColumnName="Protoza (Tropozoite)" type="xs:string" minOccurs="0" />
+              <xs:element name="Macrophages" msprop:Generator_ColumnVarNameInTable="columnMacrophages" msprop:Generator_ColumnPropNameInRow="Macrophages" msprop:Generator_ColumnPropNameInTable="MacrophagesColumn" msprop:Generator_UserColumnName="Macrophages" type="xs:string" minOccurs="0" />
+              <xs:element name="Others" msprop:Generator_ColumnVarNameInTable="columnOthers" msprop:Generator_ColumnPropNameInRow="Others" msprop:Generator_ColumnPropNameInTable="OthersColumn" msprop:Generator_UserColumnName="Others" type="xs:string" minOccurs="0" />
+              <xs:element name="Occult_x0020_Blood_x0020_Test_x0020__x0028_O.B.T_x0029_" msprop:Generator_ColumnVarNameInTable="_columnOccult_Blood_Test__O_B_T_" msprop:Generator_ColumnPropNameInRow="_Occult_Blood_Test__O_B_T_" msprop:Generator_ColumnPropNameInTable="_Occult_Blood_Test__O_B_T_Column" msprop:Generator_UserColumnName="Occult Blood Test (O.B.T)" type="xs:string" minOccurs="0" />
+              <xs:element name="Cyst" msprop:Generator_ColumnVarNameInTable="columnCyst" msprop:Generator_ColumnPropNameInRow="Cyst" msprop:Generator_ColumnPropNameInTable="CystColumn" msprop:Generator_UserColumnName="Cyst" type="xs:string" minOccurs="0" />
+              <xs:element name="Ova" msprop:Generator_ColumnVarNameInTable="columnOva" msprop:Generator_ColumnPropNameInRow="Ova" msprop:Generator_ColumnPropNameInTable="OvaColumn" msprop:Generator_UserColumnName="Ova" type="xs:string" minOccurs="0" />
+              <xs:element name="Cyst_x0020_Of" msprop:Generator_ColumnVarNameInTable="columnCyst_Of" msprop:Generator_ColumnPropNameInRow="Cyst_Of" msprop:Generator_ColumnPropNameInTable="Cyst_OfColumn" msprop:Generator_UserColumnName="Cyst Of" type="xs:string" minOccurs="0" />
+              <xs:element name="Fat_x0020_Globules" msprop:Generator_ColumnVarNameInTable="columnFat_Globules" msprop:Generator_ColumnPropNameInRow="Fat_Globules" msprop:Generator_ColumnPropNameInTable="Fat_GlobulesColumn" msprop:Generator_UserColumnName="Fat Globules" type="xs:string" minOccurs="0" />
+              <xs:element name="Muscle_x0020_Fibres" msprop:Generator_ColumnVarNameInTable="columnMuscle_Fibres" msprop:Generator_ColumnPropNameInRow="Muscle_Fibres" msprop:Generator_ColumnPropNameInTable="Muscle_FibresColumn" msprop:Generator_UserColumnName="Muscle Fibres" type="xs:string" minOccurs="0" />
+              <xs:element name="Yeast" msprop:Generator_ColumnVarNameInTable="columnYeast" msprop:Generator_ColumnPropNameInRow="Yeast" msprop:Generator_ColumnPropNameInTable="YeastColumn" msprop:Generator_UserColumnName="Yeast" type="xs:string" minOccurs="0" />
+              <xs:element name="Larava_x0020_Of" msprop:Generator_ColumnVarNameInTable="columnLarava_Of" msprop:Generator_ColumnPropNameInRow="Larava_Of" msprop:Generator_ColumnPropNameInTable="Larava_OfColumn" msprop:Generator_UserColumnName="Larava Of" type="xs:string" minOccurs="0" />
+              <xs:element name="Charcot_x0020_Leyden_x0020_Crystale" msprop:Generator_ColumnVarNameInTable="columnCharcot_Leyden_Crystale" msprop:Generator_ColumnPropNameInRow="Charcot_Leyden_Crystale" msprop:Generator_ColumnPropNameInTable="Charcot_Leyden_CrystaleColumn" msprop:Generator_UserColumnName="Charcot Leyden Crystale" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

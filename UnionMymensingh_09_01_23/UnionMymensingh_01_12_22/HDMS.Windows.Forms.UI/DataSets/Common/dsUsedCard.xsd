@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsUsedCard" targetNamespace="http://tempuri.org/dsUsedCard.xsd" xmlns:mstns="http://tempuri.org/dsUsedCard.xsd" xmlns="http://tempuri.org/dsUsedCard.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsUsedCard" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsUsedCard" msprop:Generator_UserDSName="dsUsedCard">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtUsedCard" msprop:Generator_TableClassName="dtUsedCardDataTable" msprop:Generator_TableVarName="tabledtUsedCard" msprop:Generator_RowChangedName="dtUsedCardRowChanged" msprop:Generator_TablePropName="dtUsedCard" msprop:Generator_RowDeletingName="dtUsedCardRowDeleting" msprop:Generator_RowChangingName="dtUsedCardRowChanging" msprop:Generator_RowEvHandlerName="dtUsedCardRowChangeEventHandler" msprop:Generator_RowDeletedName="dtUsedCardRowDeleted" msprop:Generator_RowClassName="dtUsedCardRow" msprop:Generator_UserTableName="dtUsedCard" msprop:Generator_RowEvArgName="dtUsedCardRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CardNo" msprop:Generator_ColumnVarNameInTable="columnCardNo" msprop:Generator_ColumnPropNameInRow="CardNo" msprop:Generator_ColumnPropNameInTable="CardNoColumn" msprop:Generator_UserColumnName="CardNo" type="xs:long" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="UsedDate" msprop:Generator_ColumnVarNameInTable="columnUsedDate" msprop:Generator_ColumnPropNameInRow="UsedDate" msprop:Generator_ColumnPropNameInTable="UsedDateColumn" msprop:Generator_UserColumnName="UsedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CardType" msprop:Generator_ColumnVarNameInTable="columnCardType" msprop:Generator_ColumnPropNameInRow="CardType" msprop:Generator_ColumnPropNameInTable="CardTypeColumn" msprop:Generator_UserColumnName="CardType" type="xs:string" minOccurs="0" />
+              <xs:element name="EntryTime" msprop:Generator_ColumnVarNameInTable="columnEntryTime" msprop:Generator_ColumnPropNameInRow="EntryTime" msprop:Generator_ColumnPropNameInTable="EntryTimeColumn" msprop:Generator_UserColumnName="EntryTime" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginName" msprop:Generator_ColumnVarNameInTable="columnLoginName" msprop:Generator_ColumnPropNameInRow="LoginName" msprop:Generator_ColumnPropNameInTable="LoginNameColumn" msprop:Generator_UserColumnName="LoginName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

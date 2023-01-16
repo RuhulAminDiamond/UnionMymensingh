@@ -1,0 +1,16 @@
+﻿  WebCamLib.cpp
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\WebCamLib.h(369): warning C4100: 'pSample': unreferenced formal parameter
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\WebCamLib.h(369): warning C4100: 'SampleTime': unreferenced formal parameter
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\WebCamLib.h(374): warning C4100: 'SampleTime': unreferenced formal parameter
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\WebCamLib.h(384): warning C4100: 'ppvObject': unreferenced formal parameter
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\WebCamLib.h(384): warning C4100: 'riid': unreferenced formal parameter
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(819): warning C4706: assignment within conditional expression
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(845): warning C4706: assignment within conditional expression
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(490): warning C4706: assignment within conditional expression
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(643): warning C4706: assignment within conditional expression
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(647): warning C4706: assignment within conditional expression
+d:\softprojects\desktop\his\maherponline_jan_11_2020\webcamlib\webcamlib.cpp(718): warning C4706: assignment within conditional expression
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  WebCamLib.vcxproj -> D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamLib\bin\Release\WebCamLib.dll
+  WebCamLib.vcxproj -> D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\WebCamLib\bin\Release\WebCamLib.pdb (Full PDB)

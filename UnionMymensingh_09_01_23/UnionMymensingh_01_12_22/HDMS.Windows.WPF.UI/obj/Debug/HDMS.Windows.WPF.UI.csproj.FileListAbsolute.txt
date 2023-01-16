@@ -1,0 +1,212 @@
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\SoftProjects\Desktop\HIS\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_Jan_11_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_March_01_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline_March_18_2020\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\Universal\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHERPOnline\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHNayasarak\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+G:\Goni Hospoital\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+D:\DesktopProjects\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csprojAssemblyReference.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+E:\MountAdoraMain Software\MAHGitRepo\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe.config
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.exe
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\bin\Debug\HDMS.Windows.WPF.UI.pdb
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.baml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.baml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.baml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.baml
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Login.g.cs
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\MainWindow.g.cs
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test1.g.cs
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\Test2.g.cs
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\App.g.cs
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI_MarkupCompile.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.g.resources
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.Properties.Resources.resources
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.GenerateResource.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.csproj.CoreCompileInputs.cache
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.exe
+E:\MountAdoraMain Software\MAHGitRepo_Apr11_2021\MAHGitRepo\HDMS.Windows.WPF.UI\obj\Debug\HDMS.Windows.WPF.UI.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSampleReceiveStatement" targetNamespace="http://tempuri.org/dsSampleReceiveStatement.xsd" xmlns:mstns="http://tempuri.org/dsSampleReceiveStatement.xsd" xmlns="http://tempuri.org/dsSampleReceiveStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSampleReceiveStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsSampleReceiveStatement" msprop:Generator_UserDSName="dsSampleReceiveStatement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtSampleReceiveStatement" msprop:Generator_TableClassName="dtSampleReceiveStatementDataTable" msprop:Generator_TableVarName="tabledtSampleReceiveStatement" msprop:Generator_RowChangedName="dtSampleReceiveStatementRowChanged" msprop:Generator_TablePropName="dtSampleReceiveStatement" msprop:Generator_RowDeletingName="dtSampleReceiveStatementRowDeleting" msprop:Generator_RowChangingName="dtSampleReceiveStatementRowChanging" msprop:Generator_RowEvHandlerName="dtSampleReceiveStatementRowChangeEventHandler" msprop:Generator_RowDeletedName="dtSampleReceiveStatementRowDeleted" msprop:Generator_RowClassName="dtSampleReceiveStatementRow" msprop:Generator_UserTableName="dtSampleReceiveStatement" msprop:Generator_RowEvArgName="dtSampleReceiveStatementRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:string" minOccurs="0" />
+              <xs:element name="TestName" msprop:Generator_ColumnVarNameInTable="columnTestName" msprop:Generator_ColumnPropNameInRow="TestName" msprop:Generator_ColumnPropNameInTable="TestNameColumn" msprop:Generator_UserColumnName="TestName" type="xs:string" minOccurs="0" />
+              <xs:element name="SampleReceivedDate" msprop:Generator_ColumnVarNameInTable="columnSampleReceivedDate" msprop:Generator_ColumnPropNameInRow="SampleReceivedDate" msprop:Generator_ColumnPropNameInTable="SampleReceivedDateColumn" msprop:Generator_UserColumnName="SampleReceivedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SampleReceivedTime" msprop:Generator_ColumnVarNameInTable="columnSampleReceivedTime" msprop:Generator_ColumnPropNameInRow="SampleReceivedTime" msprop:Generator_ColumnPropNameInTable="SampleReceivedTimeColumn" msprop:Generator_UserColumnName="SampleReceivedTime" type="xs:string" minOccurs="0" />
+              <xs:element name="SampleReceivedBy" msprop:Generator_ColumnVarNameInTable="columnSampleReceivedBy" msprop:Generator_ColumnPropNameInRow="SampleReceivedBy" msprop:Generator_ColumnPropNameInTable="SampleReceivedByColumn" msprop:Generator_UserColumnName="SampleReceivedBy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

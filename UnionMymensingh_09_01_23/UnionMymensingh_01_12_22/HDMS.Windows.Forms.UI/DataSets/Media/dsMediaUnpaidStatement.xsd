@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMediaUnpaidStatement" targetNamespace="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns:mstns="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns="http://tempuri.org/dsMediaUnpaidStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMediaUnpaidStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsMediaUnpaidStatement" msprop:Generator_UserDSName="dsMediaUnpaidStatement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtMediaUnpaidStatement" msprop:Generator_TableClassName="dtMediaUnpaidStatementDataTable" msprop:Generator_TableVarName="tabledtMediaUnpaidStatement" msprop:Generator_TablePropName="dtMediaUnpaidStatement" msprop:Generator_RowDeletingName="dtMediaUnpaidStatementRowDeleting" msprop:Generator_RowChangingName="dtMediaUnpaidStatementRowChanging" msprop:Generator_RowEvHandlerName="dtMediaUnpaidStatementRowChangeEventHandler" msprop:Generator_RowDeletedName="dtMediaUnpaidStatementRowDeleted" msprop:Generator_UserTableName="dtMediaUnpaidStatement" msprop:Generator_RowChangedName="dtMediaUnpaidStatementRowChanged" msprop:Generator_RowEvArgName="dtMediaUnpaidStatementRowChangeEvent" msprop:Generator_RowClassName="dtMediaUnpaidStatementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:double" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="Media" msprop:Generator_ColumnVarNameInTable="columnMedia" msprop:Generator_ColumnPropNameInRow="Media" msprop:Generator_ColumnPropNameInTable="MediaColumn" msprop:Generator_UserColumnName="Media" type="xs:string" minOccurs="0" />
+              <xs:element name="MediaCommission" msprop:Generator_ColumnVarNameInTable="columnMediaCommission" msprop:Generator_ColumnPropNameInRow="MediaCommission" msprop:Generator_ColumnPropNameInTable="MediaCommissionColumn" msprop:Generator_UserColumnName="MediaCommission" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalSale" msprop:Generator_ColumnVarNameInTable="columnTotalSale" msprop:Generator_ColumnPropNameInRow="TotalSale" msprop:Generator_ColumnPropNameInTable="TotalSaleColumn" msprop:Generator_UserColumnName="TotalSale" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="MediaPayable" msprop:Generator_ColumnVarNameInTable="columnMediaPayable" msprop:Generator_ColumnPropNameInRow="MediaPayable" msprop:Generator_ColumnPropNameInTable="MediaPayableColumn" msprop:Generator_UserColumnName="MediaPayable" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

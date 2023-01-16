@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPathologicalReportData" targetNamespace="http://tempuri.org/dsPathologicalReportData.xsd" xmlns:mstns="http://tempuri.org/dsPathologicalReportData.xsd" xmlns="http://tempuri.org/dsPathologicalReportData.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPathologicalReportData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPathologicalReportData" msprop:Generator_UserDSName="dsPathologicalReportData">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPathologicalReportData" msprop:Generator_TableClassName="dtPathologicalReportDataDataTable" msprop:Generator_TableVarName="tabledtPathologicalReportData" msprop:Generator_TablePropName="dtPathologicalReportData" msprop:Generator_RowDeletingName="dtPathologicalReportDataRowDeleting" msprop:Generator_RowChangingName="dtPathologicalReportDataRowChanging" msprop:Generator_RowEvHandlerName="dtPathologicalReportDataRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPathologicalReportDataRowDeleted" msprop:Generator_UserTableName="dtPathologicalReportData" msprop:Generator_RowChangedName="dtPathologicalReportDataRowChanged" msprop:Generator_RowEvArgName="dtPathologicalReportDataRowChangeEvent" msprop:Generator_RowClassName="dtPathologicalReportDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GroupId" msprop:Generator_ColumnVarNameInTable="columnGroupId" msprop:Generator_ColumnPropNameInRow="GroupId" msprop:Generator_ColumnPropNameInTable="GroupIdColumn" msprop:Generator_UserColumnName="GroupId" type="xs:int" minOccurs="0" />
+              <xs:element name="TestId" msprop:Generator_ColumnVarNameInTable="columnTestId" msprop:Generator_ColumnPropNameInRow="TestId" msprop:Generator_ColumnPropNameInTable="TestIdColumn" msprop:Generator_UserColumnName="TestId" type="xs:int" minOccurs="0" />
+              <xs:element name="TestDetailId" msprop:Generator_ColumnVarNameInTable="columnTestDetailId" msprop:Generator_ColumnPropNameInRow="TestDetailId" msprop:Generator_ColumnPropNameInTable="TestDetailIdColumn" msprop:Generator_UserColumnName="TestDetailId" type="xs:int" minOccurs="0" />
+              <xs:element name="TestTitle" msprop:Generator_ColumnVarNameInTable="columnTestTitle" msprop:Generator_ColumnPropNameInRow="TestTitle" msprop:Generator_ColumnPropNameInTable="TestTitleColumn" msprop:Generator_UserColumnName="TestTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="TestResult" msprop:Generator_ColumnVarNameInTable="columnTestResult" msprop:Generator_ColumnPropNameInRow="TestResult" msprop:Generator_ColumnPropNameInTable="TestResultColumn" msprop:Generator_UserColumnName="TestResult" type="xs:string" minOccurs="0" />
+              <xs:element name="ResultUnit" msprop:Generator_ColumnVarNameInTable="columnResultUnit" msprop:Generator_ColumnPropNameInRow="ResultUnit" msprop:Generator_ColumnPropNameInTable="ResultUnitColumn" msprop:Generator_UserColumnName="ResultUnit" type="xs:string" minOccurs="0" />
+              <xs:element name="NormalResult" msprop:Generator_ColumnVarNameInTable="columnNormalResult" msprop:Generator_ColumnPropNameInRow="NormalResult" msprop:Generator_ColumnPropNameInTable="NormalResultColumn" msprop:Generator_UserColumnName="NormalResult" type="xs:string" minOccurs="0" />
+              <xs:element name="GroupTitle" msprop:Generator_ColumnVarNameInTable="columnGroupTitle" msprop:Generator_ColumnPropNameInRow="GroupTitle" msprop:Generator_ColumnPropNameInTable="GroupTitleColumn" msprop:Generator_UserColumnName="GroupTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="GroupReportOrder" msprop:Generator_ColumnVarNameInTable="columnGroupReportOrder" msprop:Generator_ColumnPropNameInRow="GroupReportOrder" msprop:Generator_ColumnPropNameInTable="GroupReportOrderColumn" msprop:Generator_UserColumnName="GroupReportOrder" type="xs:string" minOccurs="0" />
+              <xs:element name="TestReportOrder" msprop:Generator_ColumnVarNameInTable="columnTestReportOrder" msprop:Generator_ColumnPropNameInRow="TestReportOrder" msprop:Generator_ColumnPropNameInTable="TestReportOrderColumn" msprop:Generator_UserColumnName="TestReportOrder" type="xs:string" minOccurs="0" />
+              <xs:element name="DetailReportOrder" msprop:Generator_ColumnVarNameInTable="columnDetailReportOrder" msprop:Generator_ColumnPropNameInRow="DetailReportOrder" msprop:Generator_ColumnPropNameInTable="DetailReportOrderColumn" msprop:Generator_UserColumnName="DetailReportOrder" type="xs:string" minOccurs="0" />
+              <xs:element name="TestTitle_FontBold" msprop:Generator_ColumnVarNameInTable="columnTestTitle_FontBold" msprop:Generator_ColumnPropNameInRow="TestTitle_FontBold" msprop:Generator_ColumnPropNameInTable="TestTitle_FontBoldColumn" msprop:Generator_UserColumnName="TestTitle_FontBold" type="xs:int" minOccurs="0" />
+              <xs:element name="TestTitle_FontItalic" msprop:Generator_ColumnVarNameInTable="columnTestTitle_FontItalic" msprop:Generator_ColumnPropNameInRow="TestTitle_FontItalic" msprop:Generator_ColumnPropNameInTable="TestTitle_FontItalicColumn" msprop:Generator_UserColumnName="TestTitle_FontItalic" type="xs:int" minOccurs="0" />
+              <xs:element name="TestTitle_FontUnderline" msprop:Generator_ColumnVarNameInTable="columnTestTitle_FontUnderline" msprop:Generator_ColumnPropNameInRow="TestTitle_FontUnderline" msprop:Generator_ColumnPropNameInTable="TestTitle_FontUnderlineColumn" msprop:Generator_UserColumnName="TestTitle_FontUnderline" type="xs:int" minOccurs="0" />
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

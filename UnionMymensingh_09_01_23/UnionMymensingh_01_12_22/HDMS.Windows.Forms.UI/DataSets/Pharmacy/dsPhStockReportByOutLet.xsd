@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStockReportByOutLet" targetNamespace="http://tempuri.org/dsStockReportByOutLet.xsd" xmlns:mstns="http://tempuri.org/dsStockReportByOutLet.xsd" xmlns="http://tempuri.org/dsStockReportByOutLet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStockReportByOutLet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsStockReportByOutLet" msprop:Generator_UserDSName="dsStockReportByOutLet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPhStockReportByOutLet" msprop:Generator_TableClassName="dtPhStockReportByOutLetDataTable" msprop:Generator_TableVarName="tabledtPhStockReportByOutLet" msprop:Generator_TablePropName="dtPhStockReportByOutLet" msprop:Generator_RowDeletingName="dtPhStockReportByOutLetRowDeleting" msprop:Generator_RowChangingName="dtPhStockReportByOutLetRowChanging" msprop:Generator_RowEvHandlerName="dtPhStockReportByOutLetRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPhStockReportByOutLetRowDeleted" msprop:Generator_UserTableName="dtPhStockReportByOutLet" msprop:Generator_RowChangedName="dtPhStockReportByOutLetRowChanged" msprop:Generator_RowEvArgName="dtPhStockReportByOutLetRowChangeEvent" msprop:Generator_RowClassName="dtPhStockReportByOutLetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProductId" msprop:Generator_ColumnVarNameInTable="columnProductId" msprop:Generator_ColumnPropNameInRow="ProductId" msprop:Generator_ColumnPropNameInTable="ProductIdColumn" msprop:Generator_UserColumnName="ProductId" type="xs:int" minOccurs="0" />
+              <xs:element name="ProductCode" msprop:Generator_ColumnVarNameInTable="columnProductCode" msprop:Generator_ColumnPropNameInRow="ProductCode" msprop:Generator_ColumnPropNameInTable="ProductCodeColumn" msprop:Generator_UserColumnName="ProductCode" type="xs:string" minOccurs="0" />
+              <xs:element name="BrandName" msprop:Generator_ColumnVarNameInTable="columnBrandName" msprop:Generator_ColumnPropNameInRow="BrandName" msprop:Generator_ColumnPropNameInTable="BrandNameColumn" msprop:Generator_UserColumnName="BrandName" type="xs:string" minOccurs="0" />
+              <xs:element name="PurchasePrice" msdata:Caption="BatchNo" msprop:Generator_ColumnVarNameInTable="columnPurchasePrice" msprop:Generator_ColumnPropNameInRow="PurchasePrice" msprop:Generator_ColumnPropNameInTable="PurchasePriceColumn" msprop:Generator_UserColumnName="PurchasePrice" type="xs:double" minOccurs="0" />
+              <xs:element name="SalePrice" msdata:Caption="ExpireDate" msprop:Generator_ColumnVarNameInTable="columnSalePrice" msprop:Generator_ColumnPropNameInRow="SalePrice" msprop:Generator_ColumnPropNameInTable="SalePriceColumn" msprop:Generator_UserColumnName="SalePrice" type="xs:double" minOccurs="0" />
+              <xs:element name="TPQty" msdata:Caption="StockAvailable" msprop:Generator_ColumnVarNameInTable="columnTPQty" msprop:Generator_ColumnPropNameInRow="TPQty" msprop:Generator_ColumnPropNameInTable="TPQtyColumn" msprop:Generator_UserColumnName="TPQty" type="xs:int" minOccurs="0" />
+              <xs:element name="TSQty" msdata:Caption="PurchaseTotal" msprop:Generator_ColumnVarNameInTable="columnTSQty" msprop:Generator_ColumnPropNameInRow="TSQty" msprop:Generator_ColumnPropNameInTable="TSQtyColumn" msprop:Generator_UserColumnName="TSQty" type="xs:int" minOccurs="0" />
+              <xs:element name="Stock" msdata:Caption="SaleTotal" msprop:Generator_ColumnVarNameInTable="columnStock" msprop:Generator_ColumnPropNameInRow="Stock" msprop:Generator_ColumnPropNameInTable="StockColumn" msprop:Generator_UserColumnName="Stock" type="xs:int" minOccurs="0" />
+              <xs:element name="totalPV" msprop:Generator_ColumnVarNameInTable="columntotalPV" msprop:Generator_ColumnPropNameInRow="totalPV" msprop:Generator_ColumnPropNameInTable="totalPVColumn" msprop:Generator_UserColumnName="totalPV" type="xs:double" minOccurs="0" />
+              <xs:element name="totalSV" msprop:Generator_ColumnVarNameInTable="columntotalSV" msprop:Generator_ColumnPropNameInRow="totalSV" msprop:Generator_ColumnPropNameInTable="totalSVColumn" msprop:Generator_UserColumnName="totalSV" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

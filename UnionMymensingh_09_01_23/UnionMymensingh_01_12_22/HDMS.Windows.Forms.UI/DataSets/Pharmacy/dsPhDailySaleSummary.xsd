@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPhDailySaleSummary" targetNamespace="http://tempuri.org/dsPhDailySaleSummary.xsd" xmlns:mstns="http://tempuri.org/dsPhDailySaleSummary.xsd" xmlns="http://tempuri.org/dsPhDailySaleSummary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPhDailySaleSummary" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPhDailySaleSummary" msprop:Generator_UserDSName="dsPhDailySaleSummary">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPhDailySaleSummary" msprop:Generator_TableClassName="dtPhDailySaleSummaryDataTable" msprop:Generator_TableVarName="tabledtPhDailySaleSummary" msprop:Generator_TablePropName="dtPhDailySaleSummary" msprop:Generator_RowDeletingName="dtPhDailySaleSummaryRowDeleting" msprop:Generator_RowChangingName="dtPhDailySaleSummaryRowChanging" msprop:Generator_RowEvHandlerName="dtPhDailySaleSummaryRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPhDailySaleSummaryRowDeleted" msprop:Generator_UserTableName="dtPhDailySaleSummary" msprop:Generator_RowChangedName="dtPhDailySaleSummaryRowChanged" msprop:Generator_RowEvArgName="dtPhDailySaleSummaryRowChangeEvent" msprop:Generator_RowClassName="dtPhDailySaleSummaryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SupplierName" msprop:Generator_ColumnVarNameInTable="columnSupplierName" msprop:Generator_ColumnPropNameInRow="SupplierName" msprop:Generator_ColumnPropNameInTable="SupplierNameColumn" msprop:Generator_UserColumnName="SupplierName" type="xs:string" minOccurs="0" />
+              <xs:element name="GrossPurchase" msprop:Generator_ColumnVarNameInTable="columnGrossPurchase" msprop:Generator_ColumnPropNameInRow="GrossPurchase" msprop:Generator_ColumnPropNameInTable="GrossPurchaseColumn" msprop:Generator_UserColumnName="GrossPurchase" type="xs:double" minOccurs="0" />
+              <xs:element name="GrossSale" msprop:Generator_ColumnVarNameInTable="columnGrossSale" msprop:Generator_ColumnPropNameInRow="GrossSale" msprop:Generator_ColumnPropNameInTable="GrossSaleColumn" msprop:Generator_UserColumnName="GrossSale" type="xs:double" minOccurs="0" />
+              <xs:element name="GrossStock" msprop:Generator_ColumnVarNameInTable="columnGrossStock" msprop:Generator_ColumnPropNameInRow="GrossStock" msprop:Generator_ColumnPropNameInTable="GrossStockColumn" msprop:Generator_UserColumnName="GrossStock" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

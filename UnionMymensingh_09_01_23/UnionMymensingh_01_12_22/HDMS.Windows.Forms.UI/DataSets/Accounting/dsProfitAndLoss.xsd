@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsProfitAndLoss" targetNamespace="http://tempuri.org/dsProfitAndLoss.xsd" xmlns:mstns="http://tempuri.org/dsProfitAndLoss.xsd" xmlns="http://tempuri.org/dsProfitAndLoss.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsProfitAndLoss" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsProfitAndLoss" msprop:Generator_UserDSName="dsProfitAndLoss">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtProfitAndLoss" msprop:Generator_TableClassName="dtProfitAndLossDataTable" msprop:Generator_TableVarName="tabledtProfitAndLoss" msprop:Generator_TablePropName="dtProfitAndLoss" msprop:Generator_RowDeletingName="dtProfitAndLossRowDeleting" msprop:Generator_RowChangingName="dtProfitAndLossRowChanging" msprop:Generator_RowEvHandlerName="dtProfitAndLossRowChangeEventHandler" msprop:Generator_RowDeletedName="dtProfitAndLossRowDeleted" msprop:Generator_UserTableName="dtProfitAndLoss" msprop:Generator_RowChangedName="dtProfitAndLossRowChanged" msprop:Generator_RowEvArgName="dtProfitAndLossRowChangeEvent" msprop:Generator_RowClassName="dtProfitAndLossRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Particulars" msprop:Generator_ColumnVarNameInTable="columnParticulars" msprop:Generator_ColumnPropNameInRow="Particulars" msprop:Generator_ColumnPropNameInTable="ParticularsColumn" msprop:Generator_UserColumnName="Particulars" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrentDateRangeAmount" msprop:Generator_ColumnVarNameInTable="columnCurrentDateRangeAmount" msprop:Generator_ColumnPropNameInRow="CurrentDateRangeAmount" msprop:Generator_ColumnPropNameInTable="CurrentDateRangeAmountColumn" msprop:Generator_UserColumnName="CurrentDateRangeAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="PrevDateRangeAmount" msprop:Generator_ColumnVarNameInTable="columnPrevDateRangeAmount" msprop:Generator_ColumnPropNameInRow="PrevDateRangeAmount" msprop:Generator_ColumnPropNameInTable="PrevDateRangeAmountColumn" msprop:Generator_UserColumnName="PrevDateRangeAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="IsFontdBold" msprop:Generator_ColumnVarNameInTable="columnIsFontdBold" msprop:Generator_ColumnPropNameInRow="IsFontdBold" msprop:Generator_ColumnPropNameInTable="IsFontdBoldColumn" msprop:Generator_UserColumnName="IsFontdBold" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReferredByReferralDetail" targetNamespace="http://tempuri.org/dsReferredByReferralDetail.xsd" xmlns:mstns="http://tempuri.org/dsReferredByReferralDetail.xsd" xmlns="http://tempuri.org/dsReferredByReferralDetail.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReferredByReferralDetail" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsReferredByReferralDetail" msprop:Generator_UserDSName="dsReferredByReferralDetail">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtByReferralDetail" msprop:Generator_TableClassName="dtByReferralDetailDataTable" msprop:Generator_TableVarName="tabledtByReferralDetail" msprop:Generator_RowChangedName="dtByReferralDetailRowChanged" msprop:Generator_TablePropName="dtByReferralDetail" msprop:Generator_RowDeletingName="dtByReferralDetailRowDeleting" msprop:Generator_RowChangingName="dtByReferralDetailRowChanging" msprop:Generator_RowEvHandlerName="dtByReferralDetailRowChangeEventHandler" msprop:Generator_RowDeletedName="dtByReferralDetailRowDeleted" msprop:Generator_RowClassName="dtByReferralDetailRow" msprop:Generator_UserTableName="dtByReferralDetail" msprop:Generator_RowEvArgName="dtByReferralDetailRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:long" minOccurs="0" />
+              <xs:element name="PatientName" msprop:Generator_ColumnVarNameInTable="columnPatientName" msprop:Generator_ColumnPropNameInRow="PatientName" msprop:Generator_ColumnPropNameInTable="PatientNameColumn" msprop:Generator_UserColumnName="PatientName" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalTestAmount" msprop:Generator_ColumnVarNameInTable="columnTotalTestAmount" msprop:Generator_ColumnPropNameInRow="TotalTestAmount" msprop:Generator_ColumnPropNameInTable="TotalTestAmountColumn" msprop:Generator_UserColumnName="TotalTestAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="PatientId" msprop:Generator_ColumnVarNameInTable="columnPatientId" msprop:Generator_ColumnPropNameInRow="PatientId" msprop:Generator_ColumnPropNameInTable="PatientIdColumn" msprop:Generator_UserColumnName="PatientId" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

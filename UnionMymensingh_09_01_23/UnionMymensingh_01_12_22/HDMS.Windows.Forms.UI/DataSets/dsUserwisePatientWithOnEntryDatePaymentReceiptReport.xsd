@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsUserwisePatientWithOnEntryDatePaymentReceiptReport" targetNamespace="http://tempuri.org/dsUserwisePatientWithOnEntryDatePaymentReceiptReport.xsd" xmlns:mstns="http://tempuri.org/dsUserwisePatientWithOnEntryDatePaymentReceiptReport.xsd" xmlns="http://tempuri.org/dsUserwisePatientWithOnEntryDatePaymentReceiptReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsUserwisePatientWithOnEntryDatePaymentReceiptReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsUserwisePatientWithOnEntryDatePaymentReceiptReport" msprop:Generator_UserDSName="dsUserwisePatientWithOnEntryDatePaymentReceiptReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtUserwisePatientWithOnEntryDatePaymentReceiptReport" msprop:Generator_TableClassName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportDataTable" msprop:Generator_TableVarName="tabledtUserwisePatientWithOnEntryDatePaymentReceiptReport" msprop:Generator_RowChangedName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowChanged" msprop:Generator_TablePropName="dtUserwisePatientWithOnEntryDatePaymentReceiptReport" msprop:Generator_RowDeletingName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowDeleting" msprop:Generator_RowChangingName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowChanging" msprop:Generator_RowEvHandlerName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowChangeEventHandler" msprop:Generator_RowDeletedName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowDeleted" msprop:Generator_RowClassName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRow" msprop:Generator_UserTableName="dtUserwisePatientWithOnEntryDatePaymentReceiptReport" msprop:Generator_RowEvArgName="dtUserwisePatientWithOnEntryDatePaymentReceiptReportRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OperateBy" msprop:Generator_ColumnVarNameInTable="columnOperateBy" msprop:Generator_ColumnPropNameInRow="OperateBy" msprop:Generator_ColumnPropNameInTable="OperateByColumn" msprop:Generator_UserColumnName="OperateBy" type="xs:string" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:double" minOccurs="0" />
+              <xs:element name="RegNo" msprop:Generator_ColumnVarNameInTable="columnRegNo" msprop:Generator_ColumnPropNameInRow="RegNo" msprop:Generator_ColumnPropNameInTable="RegNoColumn" msprop:Generator_UserColumnName="RegNo" type="xs:double" minOccurs="0" />
+              <xs:element name="Due" msprop:Generator_ColumnVarNameInTable="columnDue" msprop:Generator_ColumnPropNameInRow="Due" msprop:Generator_ColumnPropNameInTable="DueColumn" msprop:Generator_UserColumnName="Due" type="xs:double" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:short" minOccurs="0" />
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="Refunds" msprop:Generator_ColumnVarNameInTable="columnRefunds" msprop:Generator_ColumnPropNameInRow="Refunds" msprop:Generator_ColumnPropNameInTable="RefundsColumn" msprop:Generator_UserColumnName="Refunds" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
